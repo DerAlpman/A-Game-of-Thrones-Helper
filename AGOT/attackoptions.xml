@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAttackOption xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AttackOption>
+    <Name>Called Shot (Basic)</Name>
+    <Abstract>AT -4 penalty</Abstract>
+    <Description>&lt;p&gt;An attacking character may attack a specific point (the head, a hand, etc.) by taking a -4 penalty. If the target is exceptionally small (an eye, for example), the GM may increase the penalty to -6 or use the Called Shot to Vital Spot rule (page 244). Success means the attacker has struck the target as intended. Normally this results in a benefi cial effect for the attacker,
+such as knocking a flask out of the target’s hand, or striking an unarmoured limb.
+&lt;p&gt;Example: A Dothraki Raider is attacking Ser Ran. Ser Ran is wearing chainmail, but has no helm. The Dothraki attacks at Ran’s head, and suffers a -4 penalty. If the Dothraki hits, Ser Ran’s armour will not help him. Note that this is not the same as a Called Shot to Vital Spot, which would increase the damage of a successful hit. The Dothraki could do both, and stack the penalties (-4 for Called Shot, -8 for Called Shot to Vital Spot) for a total penalty of -12.</Description>
+  </AttackOption>
+  <AttackOption>
+    <Name>Attacking with Two Weapons</Name>
+    <Abstract>-6/-10
+-4/-4 Feat TWF
+-4/-8 2nd weapon light 
+-2/-2 Feat TWF &amp; 2nd light 
+as above/as above/-5 Feat TWF (Improved)</Abstract>
+    <Description>&lt;p&gt;A character armed with a one-handed weapon in each hand may use both weapons to attack, gaining an additional attack from the secondary off-hand weapon (though he or she suffers penalties in doing so). Attacks made with the primary weapon are made at a -6 penalty, including multiple attacks for high Base Attack Bonus. A single attack may be made with the secondary weapon at a -10 penalty. These melee attacks may be directed at the same or different
+opponents, as long as all are within melee range.&lt;p&gt;These penalties may be reduced if the character has the Two-Weapon Fighting or Two-Weapon Fighting (Improved) Feats. Two-Weapon Fighting reduces the penalties to -4 with each attack (instead of -6 and -10). Additionally, if the character’s secondary off-hand weapon is light, all attack penalties are reduced by 2.&lt;p&gt;For example, a Knight with the Two-Weapon Fighting Feat is fighting with longsword and dagger (a light weapon). His attack penalties are -2 for all attacks.&lt;p&gt;Two-Weapon Fighting (Improved) grants one additional attack with the off-hand weapon, but at -5 penalty, in addition to normal penalties for fighting with two weapons.</Description>
+  </AttackOption>
+  <AttackOption>
+    <Name>Attacking an Immobile Target</Name>
+    <Abstract>Automatic melee success</Abstract>
+    <Description>&lt;p&gt;A melee attack automatically succeeds against targets who are immobile or asleep. A ranged attack is made against an immobile target as if the target’s defence roll gave a result of 10 (though this number may be modified by Size; see page 249).</Description>
+	  </AttackOption>
+  <AttackOption>
+    <Name>Called Shot to Disarm</Name>
+    <Abstract>AT success
+STR or DEX check (DC 12)
+success -> -4 penalty</Abstract>
+    <Description>&lt;p&gt;A character may attempt to knock a weapon out of another person’s hand. If the attack hits, the target may make a Strength or Dexterity check (DC 12) to retain control of the weapon. If the check succeeds, the weapon’s user still suffers a -4 penalty on his or her next action with that weapon (since it is off balance), but he or she retains control of it. For more cinematic games, the GM may allow characters to attempt this action with a ranged attack.</Description>
+	 </AttackOption>
+  <AttackOption>
+    <Name>Called Shot to Weak Point</Name>
+    <Abstract>AT -DR penalty
+0.5 DR</Abstract>
+    <Description>&lt;p&gt;Armour does not completely protect its wearer, though it does provide some measure of
+protection. By making a called shot, an attacker may choose to strike for areas left somewhat
+vulnerable, despite his or her target’s armour. The attack check suffers a penalty equal to the
+Damage Reduction provided by the armour, but if the attack is successful the target’s armour
+provides only half its normal protection (round up).
+&lt;p&gt;Example: Ser Ran is wearing chainmail armour in a fight against a bandit. The
+bandit strikes for the lightly armoured area under Ser Ran’s shoulder joint, hoping to cause
+a more grievous injury. This is a Called Shot to Weak Point. Chainmail provides 5 points of
+Damage Reduction, so this called shot suffers a -5 penalty on the attack check. If the attack is
+successful, Ser Ran’s armour provides only 3 points of Damage Reduction against the attack
+(half of 5, rounded up).</Description>
+</AttackOption>
+<AttackOption>
+    <Name>Called Shot to Bypass Armour</Name>
+    <Abstract>AT 2* DR penalty, no protection</Abstract>
+    <Description>&lt;p&gt;An attacker may choose to aim for an area of the target’s body that the target’s armour
+does not protect. By making a Called Shot to Bypass Armour, an attacker may choose to
+strike for a gap in the armour. The attack check suffers a penalty equal to twice the Damage
+Reduction provided by the armour, but if the attack is successful the target’s armour provides
+no protection. The GM may decide that some types of armour leave no areas unarmoured and
+may disallow this option.
+&lt;p&gt;Note: If a target is wearing piecemeal armour, and has a significant portion of his or her
+body unarmoured (such as simply wearing a breast plate and helm, or wearing chainmail with
+no helm), the attacker may choose to make a basic Called Shot instead.
+	&lt;p&gt;Example: Ser Ran responds to the bandit’s attack by striking at his opponent’s legs,
+where his leather armour offers no protection. Th is is a Called Shot to Bypass Armour. The
+leather armour normally provides 2 points of Damage Reduction, so the attack check suffers a
+-4 penalty. If Ser Ran’s attack succeeds, the bandit’s armour provides no Damage Reduction
+at all.</Description>
+</AttackOption>
+<AttackOption>
+    <Name>Called Shot to Piecemeal Armour</Name>
+    <Abstract>AT -4 penalty
+hit lighter armour</Abstract>
+    <Description>
+	&lt;p&gt;If a character is wearing piecemeal armour (page 211) such as chainmail with a
+breastplate, or a chain shirt with leather gloves and leggings, an attacker can choose to target
+the lighter armour. The attacker makes a basic Called Shot (with a penalty of -4), and if
+successful, he or she has struck the lighter armour.
+	&lt;p&gt;Example 1: Morgan Snow is attacking a Lannister guardsman wearing a chain shirt
+and boiled leather. If Morgan makes a normal attack against the guard, she has no penalty,
+but any attack is reduced by the Damage Reduction of the chainmail (DR 5). If she tries to
+attack a weak joint in the chain, she suff ers a -5 but reduces the Damage Reduction to 3 (half of 5, round up); to slip her blade completely past the chain, she would suffer a -10 to reduce the
+DR to 0. She can also choose to strike for the leather, however. In this case, she takes a Called
+Shot penalty of -4, but if successful strikes the leather, which only has a Damage Reduction
+of 2 — clearly the best option.
+	&lt;p&gt;As the above example makes clear, if an opponent is wearing piecemeal armour, it is
+often better to take a Called Shot to the lighter armour than it is to attempt to strike a weak
+point or bypass the heavier armour.
+	&lt;p&gt;Example 2: Morgan is attacking a Lannister Knight wearing a breastplate (DR
+8) and chain (DR 5). If Morgan attacks a weak point in the plate, she suff ers a -8 penalty
+to negate 4 points of DR. If she suffers a -16 penalty, she can negate 8 points of DR. If,
+however, she takes a called shot to the chain, such as the Knight’s legs, she suffers a -4 for the
+action, but effectively negates 3 points of armour (since the chain has DR 5, as opposed to the
+8 of the plate). The chain still protects fully, but it is easier to penetrate than the plate.
+	</Description>
+</AttackOption>
+<AttackOption>
+    <Name>Called Shot to Vital Spot</Name>
+    <Abstract>AT -8 penalty
+100 % damage + target SV -2</Abstract>
+    <Description>
+	&lt;p&gt;A character attacking a living being can specify he or she is aiming for a vital spot (heart,
+groin, spine, etc.) rather than simply taking any opening as usual. He or she suffers a -8 attack
+check penalty, but, if successful, the weapon inflicts 100% damage (bonuses are calculated as
+normal). Additionally, a target’s Shock Value (page 255) is reduced by 2 against all successful
+vital shots. Note that unless the Called Shot also bypasses armour (with a further penalty),
+armour Damage Reduction still applies.
+	&lt;p&gt;If GMs prefer, rather than inflicting 100% damage, a Called Shot to Vital Spot can
+double the weapon damage dice, so that a spear that normally infl icts 1d6 damage now inflicts
+2d6 damage (bonuses are only calculated once, however). In the event that this is also a critical
+hit, rather than doubling the damage and then multiplying it, simply add one to the critical
+hit multiplier.
+</Description>
+</AttackOption>
+<AttackOption>
+    <Name>Charge</Name>
+    <Abstract>AT +2, AC -2
+full speed: -8/-4</Abstract>
+    <Description>
+	&lt;p&gt;A charge is a special full-round action that allows a character to move up to twice his or
+her speed and attack during the action. A character must move before attacking, and must have
+a clear path of at least 10 feet to the target. A charging character can make a single melee attack,
+with a +2 bonus to attack, and a -2 penalty to AC (that lasts until the start of the character’s
+next action). To charge on horseback, see Charging on a Mount, page 248.
+	&lt;p&gt;A character who is running at full speed (see Running, page 239) can make a desperate
+charge attack at the end of his or her movement. Such an attack is made with a -8 to attack,
+and a -4 penalty to AC, but any damage bonuses apply normally. This ends the character’s
+action.
+</Description>
+</AttackOption>
+<AttackOption>
+    <Name>Extra Aim</Name>
+    <Abstract>AT +2 bonus/round
+2 rounds max</Abstract>
+    <Description>
+	&lt;p&gt;A character making a ranged attack may deliberately take extra time to aim. If a
+character aims a ranged weapon for an entire round and does not move during that period, he
+or she receives a +2 attack bonus. He or she can aim for a second round, for a further bonus
+of +2. If an aiming character chooses to move or suffers any damage before he or she can fire,
+the character loses the benefit of Extra Aim.</Description>
+</AttackOption>
+<AttackOption>
+    <Name>Fighting Defensively</Name>
+    <Abstract>AT -4 = +2 AC</Abstract>
+    <Description>
+	&lt;p&gt;A character fighting in hand-to-hand combat may choose to fight cautiously, neglecting
+his or her attacks in favour of self-defence. The attacker may subtract -4 from all of his or her
+attack checks during the round to gain a +2 AC bonus until his or her next action. Note that
+this is superseded by Combat Expertise.</Description>
+</AttackOption>
+<AttackOption>
+    <Name>Splash Weapons</Name>
+    <Abstract></Abstract>
+    <Description>
+	&lt;p&gt;Some weapons, such as boiling oil, are liquid and may harm not only the target of an
+attack, but also anyone standing nearby. Throwing a splash weapon is handled as any other
+ranged attack. They are normally hard to handle, and thus require a full-round action. Because
+of the extra time required, however, using one does not impose a nonproficiency penalty. A
+successful hit deals direct hit damage to the target and splash damage to everything within
+5 feet of the target (some weapons have a greater splash range, see their descriptions for
+details).
+	&lt;p&gt;If the target has a shield, the attacker may opt to strike the shield, in which case it
+provides no AC bonus. In this case, the target will only be subject to splash damage, although
+the shield may be otherwise affected (light on fi re, etc.).
+	&lt;p&gt;The attacker can target a specific spot on the ground, rather than a moving opponent.
+Treat this as a ranged attack against AC 5. However, if the attacker targets a spot on the ground,
+targets in all adjacent squares are dealt splash damage, and no one is subject to direct damage.
+If the ranged attack with a splash weapon
+fails, the actual location of the splash weapon
+should be determined. The point of
+impact is found by rolling a 1d8 and
+a 1d10. The 1d8 roll determines
+the misdirection of the throw,
+with 1 being straight back at
+the attacker and 2 through 8
+counting clockwise around the
+target. The 1d10 roll indicates the
+impact location — the result equals
+the number of feet away from the
+original target the attack landed. After you
+determine where the weapon landed, it deals
+splash damage to all adjacent creatures.
+	&lt;p&gt;Example 1: Maester Heldan is helping to defend a keep from being overrun. Standing
+at the battlements, he throws a small pot of boiling oil at a wildling Raider trying to scale
+the wall, 30 feet below him. If he makes his attack roll, and the wilding fails to defend, the
+Raider takes 1d6 direct damage, and any wildlings within 5 feet take 1d4 splash damage.
+	&lt;p&gt;Example 2: Heldan throws a second pot of boiling oil down, but fails to hit. To
+determine where the boiling oil ends up, Paul rolls a 1d8 for the direction (he rolls a 7 — east
+of target). Th en Paul rolls a 1d10 to determine the distance from the intended target; he rolls
+a 3, indicating 3 feet to the east. Everything within 5 feet of that point takes 1d4 damage
+from the splash of oil.
+	</Description>
+</AttackOption>
+<AttackOption>
+    <Name>Striking to Incapacitate</Name>
+    <Abstract>AT -8 penalty
+Fort Save (DC 10 + damage)</Abstract>
+    <Description>
+	&lt;p&gt;A character attacking in hand-to-hand combat or with a blunt melee weapon may
+attempt to knock a surprised opponent unconscious. The target of the attack must be unaware
+of the attack to be vulnerable to it. The attacker makes his or her attack check with a -8
+penalty. If the target suffers any damage, he or she must make a Fort Save (DC 10 + attacker’s
+damage). If the target succeeds on this Save, he or she maintains consciousness. If the target
+fails this check, however, he or she falls unconscious. Damage inflicted by an Incapacitating
+Strike is one-quarter of the attack’s maximum damage (round down, minimum of 1).
+	&lt;p&gt;For example, Laurel wants to capture a Lannister guard so she strikes to Incapacitate.
+Her punch normally inflicts 1d3 + 1 (for a 13 Strength), for a maximum of 4 damage. She
+rolls to hit with a -8 penalty and successfully hits her opponent and does 3 damage, forcing
+the guard to make a Fort Save (at DC 10 + 3 = 13). Regardless of whether or not the guard
+remains conscious, he takes 1 (3 ÷ 4 = .75, rounded up in this case to the minimum of 1)
+damage from the blow.
+	</Description>
+</AttackOption>
+<AttackOption>
+    <Name>Striking to Wound</Name>
+    <Abstract>reduce damage to min 1</Abstract>
+    <Description>
+	&lt;p&gt;A character in combat can elect to reduce his or her delivered damage below the normal
+damage value to a minimum of 1 (known as striking to wound).&lt;p&gt;</Description>
+</AttackOption>
+<AttackOption>
+    <Name>Total Attack</Name>
+    <Abstract>AT +2, AC -2</Abstract>
+    <Description>
+	&lt;p&gt;A character can take this option in conjunction with an attack. It means he or she
+focuses intently on an offensive action with little thought given to defence. The character gains
+a +2 bonus to all attack checks during that round, but the character’s Armour Class suffers
+a cumulative -2 penalty for each attack made the entire round in which the Total Attack is
+made.</Description>
+</AttackOption>
+<AttackOption>
+    <Name>Touching a Target</Name>
+    <Abstract>AT +6</Abstract>
+    <Description>
+	&lt;p&gt;In some situations, a character may wish to simply touch his or her target. It is much
+easier to just touch a person than it is to physically strike him or her with enough force to cause
+damage. Thus, any character who is only attempting to touch an opponent gains a +6 bonus
+to his or her attack check. Touching a specific part of a target’s body may require a Called
+Shot (see page 241). This assumes the character is attempting to make a brief contact with
+the target. If prolonged contact is required, the target must either be willing or the character
+must grapple the target.</Description>
+</AttackOption>
+<AttackOption>
+    <Name>Trip Attacks</Name>
+    <Abstract></Abstract>
+    <Description>
+	&lt;p&gt;A character can try to trip an opponent as an unarmed melee attack. A character can trip
+an opponent who is the same size, smaller, or up to one category larger.
+	&lt;p&gt;A character may make a trip attack instead of a normal attack. Roll an unarmed melee
+attack check as normal. If the attack succeeds, the attacker makes a Strength check opposed by
+the defender’s Dexterity or Strength check (whichever Ability Score has the higher Modifier).
+See the Size Chart (page 249) for trip Modifiers. If the attacker wins, he or she trips the
+defender. If the attacker loses, the defender may immediately react and try to trip the attacker.
+A tripped target is rendered prone. Prone characters suffer a -4 penalty to their AC against
+melee attacks, but may stand up during their next action.
+	&lt;p&gt;Trip attacks may also be made to pull a rider from the saddle. In this case, the target
+may make a Ride check in place of a Dexterity or Strength check to avoid the attack. A
+successful attack pulls the rider from the mount, who takes 1d6 damage (armour does not
+prevent this).
+	&lt;p&gt;Some weapons can be used to make trip attacks. In this case, the attacker makes a
+normal trip attack (just like an unarmed trip attack). If the attack fails, however, the attacker
+can drop the weapon to avoid being tripped.</Description>
+</AttackOption>
+</ArrayOfAttackOption>

@@ -1,0 +1,1416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFeat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Feat>
+    <Type>G</Type>
+    <Name>Armour Proficiency (Light)</Name>
+    <Prerequisites></Prerequisites>
+    <Abstract>Ignore armour check penalty</Abstract>
+    <Benefit>When you wear a type of armour with which you are proficient, you can ignore the
+armour check penalty to attacks and Ride checks.</Benefit>
+    <Special></Special>
+    <Description>You have trained in the use of light armour, learning how best to move and fight in
+leather or cloth armours (see Table 11-8, Armour, page 213)</Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Armour Proficiency (Medium)</Name>
+    <Prerequisites>Armour Proficiency (Light)</Prerequisites>
+    <Abstract>Ignore armour check penalty</Abstract>
+    <Benefit>When you wear a type of armour with which you are proficient, you can ignore the
+armour check penalty to attacks and Ride checks.</Benefit>
+    <Special></Special>
+    <Description>You have trained in the use of medium armour, learning how best to move and fight in
+mail (see Table 11-8, Armour, page 213)</Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Accuracy</Name>
+    <Prerequisites>BAB +4</Prerequisites>
+    <Abstract>AT difficulty penalty -2</Abstract>
+    <Benefit>You suffer reduced dice penalties when attempting difficult attacks, such as striking
+at weak points, vital spots, or shooting at long ranges. Accuracy also comes into play when
+attempting a special trick shot, such as carving an initial on someone’s body or pinning
+a target’s clothing to a wall with an arrow. This Feat reduces the difficulty penalty of any
+appropriate attack by 2 (to a minimum of 0). For example, attacking a vital spot (-8 penalty)
+now incurs a -6 penalty, while firing at double range (-4 penalty) would receive -2 penalty. For
+more information on trick shots and attacking vital spots, see page 241. Additionally, if your
+opponents is defending with a shield, you get a +2 bonus to attack as long as you are trying to
+bypass the shield (rather than strike it).</Benefit>
+    <Special></Special>
+    <Description>A keen eye and steady hand let you attack with uncanny accuracy.</Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Accuracy (Improved)</Name>
+    <Prerequisites>Accuracy
+BAB + 8</Prerequisites>
+    <Abstract>AT difficulty penalty -2</Abstract>
+    <Benefit>As with Accuracy, you suffer reduced dice penalties when attempting difficult attacks,
+such as striking at weak points or vital spots, or shooting at long ranges. Each difficulty penalty
+is reduced by an additional 2 points (to a minimum of 0). For example, attacking a vital spot
+(-8 penalty) incurs a -4 penalty, while firing at double range (-4 penalty) would receive 0 penalty.
+For more information on trick shots and attacking vital spots, see page 241. Additionally, if
+your opponents is defending with a shield, you get a further +2 bonus (+4 total) to attack as
+long as you are trying to bypass the shield (rather than strike it).</Benefit>
+    <Special>This Feat stacks with the bonuses provided by Accuracy, for a total penalty reduction
+of -4.</Special>
+    <Description>Your technique with melee or ranged weapons is near perfect, allowing amazing displays
+of accuracy and pinpoint targeting.</Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Authority</Name>
+    <Prerequisites>Cha 13</Prerequisites>
+    <Abstract>+1 Reputation &amp; Influcence</Abstract>
+    <Benefit>You are well-known for your prominent rank and gain a +1 bonus to all 
+Reputation checks. Additionally, you gain a +1 to all Influence checks.</Benefit>
+    <Special>This feat must be approved by the GM, and must be appropriate to the story or
+plotline of the ongoing campaig.n</Special>
+    <Description>Through birth, merit or appointment, you have earned a position of prominence
+in your house, clan, or community. Your position brings with it both public recognition and
+political influence.</Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Aware</Name>
+    <Prerequisites>BAB +3</Prerequisites>
+    <Abstract>never flat-footed</Abstract>
+    <Benefit>You recover quickly from surprise attacks, and are thus never caught
+flat-footed (see page 250). If you are surprised, the attacker still receives one
+free surprise attack round - but your are not flat-footed during this time.</Benefit>
+    <Special></Special>
+    <Description></Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Blind Fighting</Name>
+    <Prerequisites></Prerequisites>
+    <Abstract>s. Langtext</Abstract>
+    <Benefit>You suffer only half the normal penalties associated with attacking or
+defending with melee weapons or while unarmed in poor light, absolute darkness, or against
+an unseen opponent (s. page 248 more information about darkness penalties).</Benefit>
+    <Special></Special>
+    <Description>You've learned how to use your ears and finely-honed senses to fight in
+melee without being able to see your foe.</Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Bravado</Name>
+    <Prerequisites>Cha 13</Prerequisites>
+    <Abstract>AT or PA + Cha bonus</Abstract>
+    <Benefit>Select one weapon. When using that weapon, you may opt to add your Cha
+bonus to attack rolls or defence rolls, chosen when this feat is selected.</Benefit>
+    <Special>This feat may be taken multiple times. Each time, it applies to either the
+alternate value (attack or defence) or a different weapon. Its effects do not stack with
+Brute, Canny, Finesse or Tactics.</Special>
+    <Description>Your Charisma allows you to dominate opponents through sheer presence
+and force of will.</Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Armour Proficiency (Heavy)</Name>
+    <Prerequisites>Armour Proficiency (Light)
+Armour Proficiency (Medium)</Prerequisites>
+    <Abstract>Ignore armour check penalty</Abstract>
+    <Benefit>When you wear a type of armour with which you are proficient, you can ignore the
+armour check penalty to attacks and Ride checks.</Benefit>
+    <Special></Special>
+    <Description>You have trained in the use of heavy armour, learning how best to move and fight in
+heavy mail and plate (see Table 11-8, Armour, page 213)</Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Brawl</Name>
+    <Prerequisites>Str 13</Prerequisites>
+    <Abstract>AT +1
+nonlethal dam D6 +  Str modifier</Abstract>
+    <Benefit>You receive a +1 bonus to hit when attacking unarmed, and you deal nonlethal damage
+equal to 1d6 + your Strength Modifier.</Benefit>
+    <Special></Special>
+    <Description>You’re no stranger to a brawl. Strength, practice, and ferocity have made your bare
+knuckles into formidable weapons.</Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Brawl (Improved)</Name>
+    <Prerequisites>Brawl
+BAB +3</Prerequisites>
+    <Abstract>AT +2
+nonlethal dam D8 +  Str modifier</Abstract>
+    <Benefit>You receive a +2 bonus when attacking unarmed, and you deal nonlethal damage equal
+to 1d8 + your Strength Modifier.</Benefit>
+    <Special></Special>
+    <Description>You are a dedicated brawler, and are a terror even without weapons.</Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Brute</Name>
+    <Prerequisites>Str 13</Prerequisites>
+    <Abstract>AT or PA +Str bonus</Abstract>
+    <Benefit>Select one weapon. When using that weapon in melee, you may opt to add your Str
+bonus to attack rolls or defence rolls, chosen when this Feat is first selected.</Benefit>
+    <Special>This Feat may be taken multiple times. Each time, it applies to either the alternate
+value (attack or defence) or a different weapon. Its effects do not stack with Bravado, Canny,
+Finesse, or Tactics.</Special>
+    <Description>Your Strength allows you to handle a heavy weapon with ease. You may lack finesse and
+technique, but you compensate with raw power.</Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Canny</Name>
+    <Prerequisites>Wis 13</Prerequisites>
+    <Abstract>AT or PA +Wis bonus</Abstract>
+    <Benefit>Select one weapon. When using that weapon, you may opt to add your Wis bonus to
+attack rolls or defence rolls, chosen when this Feat is first selected.</Benefit>
+    <Special>This Feat may be taken multiple times. Each time, it applies to either the alternate
+value (attack or defence) or a different weapon. Its effects do not stack with Bravado, Brute,
+Finesse, or Tactics.</Special>
+    <Description>Your Wisdom allows you to fight strategically.</Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Cleave</Name>
+    <Prerequisites>Str 13
+Power Attack</Prerequisites>
+    <Abstract>Extra AT</Abstract>
+    <Benefit>If, in a single attack, you deal enough damage to a foe to make him or her drop (by
+reducing the foe to 0 Hit Points, slaying the foe, overcoming a foe’s Shock Value, etc.), you
+get an immediate, extra melee attack on another foe within reach. You cannot move before
+making this extra attack. The extra attack is made with the same weapon and same attack
+bonus as the attack that dropped the previous foe. You may use this ability only once in a
+combat round.</Benefit>
+    <Special></Special>
+    <Description>In combat, you can follow through successful hits with powerful blows.</Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Cleave (Great)</Name>
+    <Prerequisites>Str 13
+Power Attack
+Cleave
+BAB +4</Prerequisites>
+    <Abstract>Multiple extra AT</Abstract>
+    <Benefit>As per Cleave, except that there is no limit to the number of free Cleave attacks you can
+make in a round. You may not take any movement between the free Cleave attacks.</Benefit>
+    <Special></Special>
+    <Description>You can wield a melee weapon with such power that you can strike multiple times
+whenever you fell your foes.</Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Combat Agility</Name>
+    <Prerequisites>Str 13
+Power Attack
+Cleave
+Dex 13
+Int 13
+Combat Expertise
+Dodge</Prerequisites>
+    <Abstract>Second defence roll</Abstract>
+    <Benefit>You may make a second defence roll in a single round at your full Defence Bonus,
+ignoring the normal penalty for defending against multiple attackers. See Defending Against
+Multiple Attacks, page 249 for more information.</Benefit>
+    <Special>You may take this Feat multiple times. Each time, you can make an additional defence
+roll at full bonus. You may only take this Feat a number of times equal to your Dex bonus.</Special>
+    <Description>Your reflexes and awareness allow you to maintain an uncanny defence in combat,
+keeping your guard up even against several opponents.</Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Combat Expertise</Name>
+    <Prerequisites>Int 13</Prerequisites>
+    <Abstract>AT -x -&gt; PA +x</Abstract>
+    <Benefit>On an attack action in melee, you can take a penalty of as much as -5 to your attack
+rolls, and add that same number (up to +5) to your defence roll. The number of points shifted
+from attack to defence cannot exceed the character’s Base Attack Bonus. The bonus to defence
+applies until the character’s next action, and is a dodge bonus. This Feat is different from
+fighting defensively, and supersedes those bonuses (see page 245 for more information).</Benefit>
+    <Special></Special>
+    <Description>You have trained in using your combat skills for defence as well as offence.</Description>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Command</Name>
+<Description>You have been given command of an organisation, and have control over its Wealth
+and Influences.</Description>
+<Prerequisites>Member of the organisation
+GM’s approval</Prerequisites>
+<Abstract>Wealth +1
+Social Status checks +2 bonus</Abstract>
+<Benefit>You are the acknowledged Lord Commander (or equivalent title, such as High Septon
+or Grand Maester) of an organisation. Your Wealth increases by +1 Rank. You also gain +2 to
+all checks where Social Status applies (such as Influence checks and Social Skill rolls), since
+people recognise your authority. Additionally, the Maximum Influence over your organisation
+increases by 10 (you do not receive any more Influence Points, but you can spend more to
+establish greater control. For example, the Lord Commander of the Kingsguard would have
+Social Status Rank 4 and Maximum Influence of 50 over the Kingsguard, while the Lord
+Commander of the Night’s Watch would have Social Status Rank 3 and Maximum Influence
+of 40 over the Night’s Watch).</Benefit>
+<Special>Your title may need to be confirmed by a greater authority (the king, the members of
+the organisation, etc.). In your territory, you have the potential for tremendous power (see
+Maximum Influence, page 191), and you may have other rights and privileges, depending on
+your organisation’s position.
+This Feat should not be used to gain control over a noble house (see Heir and Head
+of House).</Special>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Critical (Improved)</Name>
+<Description>Your mastery of one type of weapon makes you deadly in combat. When wielding that
+weapon, you know exactly where to strike your opponents to cripple or slay them.</Description>
+<Prerequisites>Base Attack Bonus +8
+Proficiency with the chosen weapon</Prerequisites>
+<Abstract>double critical threat range</Abstract>
+<Benefit>Choose one type of weapon. When using that weapon, the critical threat range is
+doubled. For example, a longsword usually threatens a critical hit on a roll of 19 or 20 (a 2 in
+20 chance). If you take Critical (Improved) with longswords, the threat range expands to 17
+to 20 (a 4 in 20 chance).</Benefit>
+<Special>This Feat may be taken multiple times, but its effects do not stack. Each additional
+application of this Feat applies to a different weapon.</Special>
+  </Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Dodge</Name>
+<Description>You are adept at dodging blows.</Description>
+<Prerequisites>Dex 13</Prerequisites>
+<Abstract>+1 dodge bonus</Abstract>
+<Benefit>At the beginning of each combat round, designate an opponent and receive a +1 dodge bonus
+to all defence rolls made against that opponent. You may select a new opponent every action. Any
+condition that makes you lose your Dex bonus to defence rolls (being caught flat-footed, etc.),
+negates this and all other dodge bonuses. Dodge Feat bonuses stack with other dodge bonuses.</Benefit>
+<Special>This Feat may be taken multiple times. Its effects stack up to a maximum bonus of +3
+or your Dex bonus, whichever is lower.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Endurance</Name>
+<Description>You are capable of amazing feats of stamina.</Description>
+<Abstract>+4 bonus physcial actions</Abstract><Benefit>Whenever making an extended check for any physical action (running, swimming, etc.), you
+receive a +4 bonus. Also, you may sleep in light or medium armour without becoming fatigued. If
+the optional Fatigue rules (page 256) are being used, Endurance reduces your Fatigue Value by 1.</Benefit>
+<Special>If using the Fatigue Over Time optional rule (page 257), Endurance increases the
+number of rounds you can fight by +4.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Fame</Name>
+<Description>For whatever reason, you are particularly well known.</Description>
+<Abstract>+2 Reputation</Abstract><Benefit>You receive a bonus of +2 Reputation Points. These Points can be added to an existing
+Reputation (or divided between two Reputations), or used to acquire a new Reputation.</Benefit>
+<Special>You may select this Feat multiple times. Its effects stack.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Far Shot</Name>
+<Description>You can get greater distance than normal out of a ranged weapon.</Description>
+<Prerequisites>Point Blank Shot</Prerequisites>
+<Abstract>increase range increment</Abstract><Benefit>When you use a projectile weapon, the range increment of any missile weapon is
+increased. Missile weapons (like bows and crossbows) increase their range increments by 50%
+(multiply by 1.5). When you use a thrown weapon, its range increment is doubled.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Fast Healer</Name>
+<Description>An iron constitution and remarkable stamina allow you to recover from injuries and
+illness at an amazing rate.</Description>
+<Prerequisites>Con 13</Prerequisites>
+<Abstract>recover twice/three times as normal</Abstract><Benefit>You recover from all forms of damage (Hit Points, Ability damage, and subdual
+damage) at twice the normal rate. Any circumstances that increase the rate of natural healing
+(long term care arising from the Heal Skill, for example) increase your natural healing rate to
+three times the normal rate if resting, or twice the normal rate if you continue to be active. See
+page 258 for information on healing wounds.</Benefit>
+<Special>This Feat may only be taken at 1st Level.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Favoured</Name>
+<Description>You have gained the attention and favour of a powerful noble. His or her good will lends
+weight to your presence, and this noble’s influence can open the door to many opportunities.</Description>
+<Abstract>+2 bonus Diplomacy/Intimidate</Abstract><Benefit>You receive a +2 circumstance bonus to Diplomacy and Intimidate checks, as
+appropriate to the situation. Additionally, this Feat offsets one Affiliation or Class requirement
+for a Class, Feat, or Prestige Class. For example, even though Sandor Clegane had no Levels
+in the Knight Prestige Class, Joffrey’s favour was enough to award him membership in the
+Kingsguard (and access to the Prestige Class).</Benefit>
+<Special>This Feat requires the presence of a noble ally or patron for the character within the
+story, and may only be taken with GM approval.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Finesse</Name>
+<Description>Your nimbleness and agility allow you to make lighting-quick strikes.</Description>
+<Prerequisites>Dex 13</Prerequisites>
+<Abstract>AT + Dex bonus</Abstract><Benefit>Select one weapon. When using that weapon, you may opt to add your Dex bonus to
+attack or defence rolls, chosen when this Feat is first selected.</Benefit>
+<Special>
+This Feat may be taken multiple times. Each time, it applies to either the alternate value (attack
+or defence) or a different weapon. Its effects do not stack with Bravado, Brute, Canny, or Tactics.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Fortune’s Favour</Name>
+<Description>You have always been blessed with a strong lucky streak.</Description>
+<Abstract>reroll one die/day</Abstract><Benefit>Once per game day, you may reroll any one die roll just made, as long as the outcome
+of the roll depends more upon luck than Skill. Craft, Profession, and Knowledge Skills, for
+example, rely primarily upon Skill, while Listen or Search checks involve more chance. Will
+and Fortitude Saves rarely depend upon luck, but Reflex Saves often do. Attack rolls and
+damage rolls involve enough chance to invoke this Feat.
+You may always try to frame an action in such a way as to emphasise the role of chance
+or luck in the outcome; the GM, however, is always the final arbiter as to whether or not this
+Feat applies. With GM approval, the player may make the roll over again and choose the more
+beneficial of the two results.</Benefit>
+<Special>This Feat may be taken multiple times. Each additional time you take the Feat, you may
+make one additional reroll per day.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Great Fortitude</Name>
+<Description>You are tougher than normal.</Description>
+<Abstract>+2 bonus Fortitude saves</Abstract><Benefit>You gain a +2 bonus to all Fortitude Saves.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Hard Luck</Name>
+<Abstract>reroll natural 1</Abstract><Benefit>Your life has been fraught with hardship, but through perseverance and tenacity you
+always seem to pull through. Whenever you get a natural 1 on a Saving Throw, attack roll, or
+defence check, you get an immediate bonus non-attack action. The effects are more or less
+simultaneous; you should be able to react before the full negative effect is felt. For example,
+if you rolled a critical failure on an attack roll you could move back, draw a new weapon, etc.
+If you failed a Saving Throw with a natural 1 you could similarly attempt to retreat out of
+harm’s way.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Head of House</Name>
+<Description>You are the head of a noble house, commanding all of its Wealth and Influences.</Description>
+<Prerequisites>Heir
+GM’s approval</Prerequisites>
+<Abstract>Wealth +1
++2 Social Status checks
+Max Influence +10</Abstract><Benefit>You are the acknowledged lord or lady of a powerful house. Your Wealth increases by +1
+Rank. You also gain +2 to all checks where Social Status applies (such as Influence checks and
+Social Skill rolls), as people recognise your authority. Additionally, the Maximum Influence
+over your house increases by 10 (you do not receive any more Influence Points, but you can
+spend more to establish greater control. For example, a minor lord would have Maximum
+Influence of 40, a great lord would have Maximum Influence of 50).</Benefit>
+<Special>Your title may need to be confirmed by your vassal lord (either a great lord or by the
+king himself). In your territory, you have the potential for tremendous power (see Maximum
+Influence, page 191), and you may have other rights and privileges (such as the ability to
+dispense the king’s justice), depending on your house’s position.
+This Feat should also be used to raise a member of the royal family (Social Status Rank
+5) from crown prince (Heir) to king of the realm (whose Maximum Influence is 60), and a
+Dothraki khalakka to khal.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Heir</Name>
+<Description>You are the first born child, or somehow otherwise acknowledged as heir to a noble
+house.</Description>
+<Prerequisites>Social Status 3+
+GM’s approval</Prerequisites>
+<Abstract>+5 Influence over house</Abstract><Benefit>You have greater Influence over your house than your siblings. You gain 5 Influence
+Points over your house. Although you now have greater sway over the house, you also have
+more responsibilities towards it.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Hero’s Effort</Name>
+<Description>You possess near bottomless reserves of willpower, stamina, and energy. Tapping into
+them allows you to push yourself to the limit of human abilities, and even beyond.</Description>
+<Abstract>one additional AT/4 lvls</Abstract><Benefit>Once per day for every four character Levels, you may take one additional action in a
+combat round. The action can be either a non-combat action or an attack action, and may
+come before or after your normal actions. However many times you may use Hero’s Effort in
+a day, though, you can never use it more than once per combat round.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Initiative (Improved)</Name>
+<Description>Finely honed reflexes allow you to react more quickly than normal in a fight.</Description>
+<Abstract>+4 bonus Initiative</Abstract><Benefit>You receive a +4 bonus to all Initiative checks. This stacks with any other bonus to
+Initiative.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Iron Will</Name>
+<Description>You have a stronger will than normal.</Description>
+<Abstract>+2 bonus Will Saves</Abstract><Benefit>You receive a +2 bonus to Will Saves.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Knockout Punch</Name>
+<Description>You are skilled at delivering a stunning blow to unwary opponents.</Description>
+<Prerequisites>Brawl
+Base Attack Bonus +3</Prerequisites>
+<Abstract>first AT = critical hit</Abstract><Benefit>When making your first unarmed attack against a flat-footed opponent, treat a successful
+attack as a critical hit. This damage is nonlethal damage.</Benefit>
+<Special>Even if you have the ability to treat unarmed damage as lethal damage, the damage from
+a knockout punch is always nonlethal.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Knockout Punch (Improved)</Name>
+<Description>You have refined your knockout bunch to devastating effect.</Description>
+<Prerequisites>Brawl
+Knockout Punch
+Base Attack Bonus +6</Prerequisites>
+<Abstract>first AT = critical hit
+3*damage</Abstract><Benefit>When making your first unarmed attack against a flat-footed opponent, treat a successful
+attack as a critical hit. This critical hit deals triple damage. This damage is nonlethal.</Benefit>
+<Special>Even if you have the ability to treat unarmed damage as lethal damage, the damage from
+a knockout punch is always nonlethal.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Leechcraft</Name>
+<Description>Long study of the healer’s craft allows you to provide extraordinary care to the injured.</Description>
+<Prerequisites>Heal 4 Ranks</Prerequisites>
+<Abstract>restore additional hitpoint</Abstract><Benefit>This Feat allows the character to use the Heal Skill to restore an additional number of
+Hit Points through the use of more extensive and thorough procedures. You must have the
+proper implements (knives, bandages, boiled wine, herbs, etc) and sufficient time to work.
+You can perform leechcraft on yourself, but at a -5 penalty.
+The Heal check takes roughly an hour, and possibly much longer to tend grievous
+wounds (the exact time is at GM’s discretion). To determine the results of the check, consult
+the table 8-2. Only one successful leechcraft attempt can ever be made on an injured
+character per week.</Benefit>
+<Special>If the Heal check is successful, and the patient stays in the healer’s care for a full day
+or more, he or she is considered to be recovering at double the normal rate (see Recovering
+Hit Points, page 258).</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Lightning Reflexes</Name>
+<Description>You have faster than normal reflexes.</Description>
+<Abstract>+2 bouns Reflex Saves</Abstract><Benefit>You gain a +2 bonus to all Reflex Saves.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Literacy</Name>
+<Description>You are lettered, which is a talent unknown to many of the smallfolk.</Description>
+<Abstract>read &amp; write native tongue</Abstract><Benefit>You can read and write your native tongue.</Benefit>
+<Special>In order to become literate in foreign languages, you must first have at least 1 Rank in
+Speak Language. You may spend 1 additional Skill Point to become literate with a language
+you know. Each language requires a separate expenditure.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Mounted Archery</Name>
+<Description>You are skilled at using missile weapons from horseback.</Description>
+<Prerequisites>Ride 1 Rank
+Mounted Warrior</Prerequisites>
+<Abstract>half penalty</Abstract><Benefit>
+The penalty you suffer when using a ranged weapon from horseback is halved: -2 if the
+mount is moving normally, -3 if the mount is cantering, and -4 if the mount is running. See
+Mounted Combat, page 247, for more information.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Mounted Archery (Improved)</Name>
+<Description>You are exceptionally skilled at using missile weapons from horseback.</Description>
+<Prerequisites>Ride 4 Ranks
+Mounted Archery
+Mounted Warrior</Prerequisites>
+<Abstract>no penalties</Abstract><Benefit>You do not suffer any penalties when using a ranged weapon from horseback.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Mounted Warrior</Name>
+<Description>Like the infamous Dothraki nomads and the famed knights of Westeros, you are skilled
+at fighting from the back of a horse.</Description>
+<Prerequisites>Ride 1 Rank</Prerequisites>
+<Abstract>replace horse AC</Abstract><Benefit>During combat, when your mount is threatened by an attack, you may choose to
+replace the horse’s Armour Class with a value equal to your total Ride Skill (Ride Skill +
+Dex Modifier + Class Modifiers). This value (as a static number), becomes the horse’s new
+Armour Class. Multiple attacks will impose a cumulative -2 penalty on the Armour Class.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Parry</Name>
+<Description>You are skilled at defending yourself with a weapon.</Description>
+<Prerequisites>Proficient with weapon
+Base Attack Bonus +1</Prerequisites>
+<Abstract>+1 (+2) defence roll</Abstract><Benefit>Choose one type of weapon. You gain a +1 to defence rolls when defending with that
+weapon against one specific opponent. You may specify the target at the beginning of each
+combat round, and may select a new opponent every action. A character in no armour or light
+armour defends at +2. You cannot parry missile weapons, however.</Benefit>
+<Special>Parry bonuses stack with all other defence check bonuses. This Feat may be taken
+multiple times. Each time, it applies to a different weapon.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Parry (Improved)</Name>
+<Description>You have gained mastery at defending yourself with a weapon.</Description>
+<Prerequisites>Parry
+Base Attack Bonus +4</Prerequisites>
+<Abstract>+2 defence roll</Abstract><Benefit>Choose one type of weapon for which you have already selected Parry. You gain a +2
+bonus on all defence rolls you make using the selected weapon, as long as you are wearing no
+armour or light armour. You cannot parry missile weapons, however.</Benefit>
+<Special>Parry (Improved) bonuses stack with all other defence check bonuses. This Feat may
+be taken multiple times. Each time, it applies to a different weapon.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Point Blank Shot</Name>
+<Description>You can make well-placed shots with missile weapons at close range.</Description>
+<Abstract>AT &amp; dam +1 </Abstract><Benefit>You gain a +1 bonus to attack and damage rolls while using any missile weapon on a
+foe within 30 feet.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Political Connections</Name>
+<Description>Whether through force of personality, guile, or position, you have managed to become
+an influential player in the game of thrones.</Description>
+<Prerequisites>Cha 13
+Diplomacy, Bluff, or Intimidate 4 Ranks</Prerequisites>
+<Abstract>IP +4 +Cha bonus</Abstract><Benefit>You receive 4 + Cha Modifier (minimum of +0) bonus Influence Points. These may be
+spent on house or organisational Influences, on personal Influences, or on Secret Influences.
+See page 189 for more information about Influence.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Power Attack</Name>
+<Description>You’ve learned to put all of your body’s Strength into a swing, making powerful (though
+somewhat clumsy) attacks.</Description>
+<Prerequisites>Str 13</Prerequisites>
+<Abstract>-x AT = +x dam</Abstract><Benefit>On your action, but before attacking in a round, you may choose to subtract a number
+from all melee attack rolls made that round and add the same number to all melee damage
+rolls. The number of points shifted from attack to damage cannot exceed your Base Attack
+Bonus. The bonus to damage and penalty to attack apply until your next action. Note: you
+cannot apply Accuracy to a Power Attack due to the wild nature of the attack, nor can you
+combine a Power Attack with Combat Expertise, Fighting Defensively, etc.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Precise Shot</Name>
+<Description>You are skilled at timing and aiming ranged attacks.</Description>
+<Prerequisites>Point Blank Shot</Prerequisites>
+<Abstract>hit target in melee w/o penalty</Abstract><Benefit>You can shoot or throw a missile weapon at a target engaged in melee combat without
+suffering the usual -4 penalty (see Shooting or Throwing into Melee, page 237).</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Quick Witted</Name>
+<Description>Your mind moves quickly, and you are always ready to react.</Description>
+<Prerequisites>Wis 13</Prerequisites>
+<Abstract>Initiative + Wis bonus</Abstract><Benefit>You can add your Wis bonus to Initiative rolls.</Benefit>
+<Special>These effects stack with any other bonus for Initiative rolls.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Raised Status</Name>
+<Description>The patronage of the powerful has allowed you to climb socially, attaining a higher
+status than you were born into.</Description>
+<Prerequisites>Reputation +1
+powerful patron or ally
+GM’s approval</Prerequisites>
+<Abstract>+5 IP</Abstract><Benefit>You have gained 5 Influence Points over one organisation or house. Although you now
+have greater sway over the organisation or house, you also have more responsibilities towards
+it, and may be called upon for service.</Benefit>
+<Special>If these are your first Influence Points with the organisation, you are recognised as a
+junior member. If you also take the Wealth Feat (page 182), your character’s Social Status
+Rank (page 90) may increase. Between this Feat and Wealth, you may acquire up to Social
+Status Rank 2. GM’s should normally not allow characters to raise their Social Status
+beyond Rank 2 unless it is good for the story. Characters who might be appropriate for this
+application include the Queen, the King’s Hand, Bloodriders, etc.
+You can take this Feat multiple times, with GM’s approval. Its effects normally stack,
+although if you have Influence over multiple organisations or houses, you may decide where the
+5 Points area allocated (all 5 must be assigned to the same place, however). You cannot exceed
+the Maximum Influence value listed for an organisation or house (page 191).</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Ride-By Attack</Name>
+<Description>You are trained to strike a target from the back of your horse, and continue on out of
+the target’s reach.</Description>
+<Prerequisites>Ride 1 Rank
+Mounted Warrior</Prerequisites>
+<Abstract>engage, hit and run one action</Abstract><Benefit>When you are mounted and use the charge action, you may move and attack as if with
+a standard charge and then move again (continuing the straight line of the charge), to distance
+yourself from the target. Your total movement for the round can’t exceed double your mounted
+speed.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Run</Name>
+<Description>You are fleet of foot.</Description>
+<Abstract>Speed *5 (*4)
++4 bonus Jump check</Abstract><Benefit>When running, you move five times your normal speed (if wearing light or no armour
+and carrying no more than a light load) or four times your speed (if wearing medium or heavy
+armour or carrying a medium or heavy load). If you make a jump after a running start (see
+the Jump Skill), you gain a +4 bonus on your Jump check. While running, you retain your
+Dexterity bonus to AC.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Shield Proficiency</Name>
+<Description>You are proficient at fighting with a shield.</Description>
+<Abstract>no penalties to AT and movement skills</Abstract><Benefit>You can use a shield for its full AC bonus, and do not suffer armour check penalties to
+attacks and movement based Skills (see Armour, page 211).</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Skill Mastery</Name>
+<Description>You’re a fast learner and show aptitude with a wide range of Skill.</Description>
+<Abstract>+9 SP</Abstract><Benefit>You receive 9 Skill Points to spend on your Skills as you choose. The points may be
+spent on one Skill or spread among several, but Skills cannot be raised above the maximum
+based on your current Level.</Benefit>
+<Special>You may gain this Feat multiple times. Its effects stack, within the limits described.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Spirited Charge</Name>
+<Description>You are trained at making a devastating mounted charge.</Description>
+<Prerequisites>Ride 4 Ranks
+Mounted Warrior</Prerequisites>
+<Abstract>2*dam melee
+3*dam lance</Abstract><Benefit>When mounted and using the charge option, you deal double damage with a melee
+weapon or triple damage with a lance.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Stern Visage</Name>
+<Description>You have cultivated the ability to frighten those around you with the power of your
+voice, presence, or gaze.</Description>
+<Prerequisites>Cha 13 or Str 13
+Intimidate 9 Ranks.</Prerequisites>
+<Abstract>s. Langtext</Abstract><Benefit>Once per round as a free action, you can try to unnerve everyone around you. All
+opponents within 30 feet who have fewer Character Levels (including ECLs) than you must
+make a Will Save (DC = 10 +1/2 your Level + Cha or Str Modifier). Additionally, if your
+Reputation is applicable, add half your Reputation value to the DC. Opponents who fail
+their Saves are shaken, suffering a -2 to all attack rolls, Saves, and Skill checks for a number
+of rounds equal to double your Cha or Str Modifier (minimum of 2). Opponents who
+successfully Save are immune to your Stern Visage for a full day.</Benefit>
+<Special>Outside combat, subjects remain terrified as long as they are in your presence.
+The Ignoble or Marked disadvantages can each increase the DC of the Save by +2, at
+the GM’s discretion.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Streetfighting</Name>
+<Description>The alleys and back rooms of King’s Landing and every great city are filled with feral
+killers, murderers who fight with all the savagery of dogs and the cunning of rats. You’ve
+learned all their tricks.</Description>
+<Prerequisites>Brawl
+Base Attack Bonus +2</Prerequisites>
+<Abstract>dam +d4</Abstract><Benefit>When unarmed or fighting with a light weapon (see page 206), you may add an
+additional 1d4 to the damage of one attack, once per round.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Tactics</Name>
+<Description>Your Intelligence and knowledge gives you an edge in combat.</Description>
+<Prerequisites>Int 13</Prerequisites>
+<Abstract>AT or PA + Int bonus</Abstract><Benefit>Select one weapon. When using that weapon, you may opt to add your Int bonus to
+attack rolls or defence rolls, chosen when this Feat is first selected.</Benefit>
+<Special>This Feat may be taken multiple times. Each time, it applies to either the alternate
+value (attack or defence) or a different weapon. Its effect do not stack with Bravado, Brute,
+Canny, or Finesse.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Tough</Name>
+<Description>You are tougher than normal, making you hard to kill.</Description>
+<Abstract>+2 HP, +1 SV</Abstract><Benefit>You gain +2 Hit Points, and +1 Shock Value.</Benefit>
+<Special>This Feat may be taken multiple times. Its effects stack.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Trip (Improved)</Name>
+<Description>You are trained to quickly follow through with an attack if your opponent trips.</Description>
+<Prerequisites>Int 13
+Combat Expertise</Prerequisites>
+<Abstract>+4 Strength check trip</Abstract><Benefit>You gain a +4 bonus to your Strength check to trip an opponent. If you trip an
+opponent in melee combat, you immediately get to make a melee attack against that opponent
+as if you had not used your attack action for the trip attempt.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Two-Weapon Defence</Name>
+<Description>You have learned to parry with an off-hand weapon.</Description>
+<Prerequisites>Two-Weapon Fighting</Prerequisites>
+<Abstract>+1 Defence bonus</Abstract><Benefit>When fighting with two weapons, you gain a +1 Defence Bonus. If fighting defensively
+or using the total defence action, this bonus increases to +2.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Two-Weapon Fighting</Name>
+<Description>Training and practice allow you to fight comfortably with a weapon in both hands.</Description>
+<Prerequisites>Dex 15</Prerequisites>
+<Abstract>penalties reduced 2/6</Abstract><Benefit>Your penalties for fighting with two weapons are reduced. The penalty for your primary
+weapon is reduced by 2, and the penalty for your secondary weapon is reduced by 6.</Benefit>
+<Special>If your off-hand weapon is light the penalties are reduced by 2 each. (An unarmed strike
+is always considered light.)</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Two-Weapon Fighting (Improved)</Name>
+<Description>You are an expert at fighting with a weapon in each hand.</Description>
+<Prerequisites>Dex 17
+Two-Weapon Fighting
+Base Attack Bonus +6</Prerequisites>
+<Abstract>+1 off hand AT</Abstract><Benefit>In addition to the single extra attack you gain with an off-hand weapon, you gain an
+additional attack with the off-hand weapon, but at a -5 penalty. The normal penalties for
+attacking with two weapons still apply (see Two Weapon Fighting Penalties, page 241).</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Veteran</Name>
+<Description>You’ve already seen battle, perhaps as a militiaman, sellsword, or even in the army of a
+great house. You know how to fight with the ferocity of a wild animal, and foes find it difficult
+to catch you off your guard.</Description>
+<Prerequisites>Proficiency with selected weapon
+Base Attack Bonus +6.</Prerequisites>
+<Abstract>Opponent SV -2</Abstract><Benefit>A specific type of weapon must be chosen when this Feat is taken. When you attack with
+this weapon, the opponent’s Shock Value is reduced by 2.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Wealth</Name>
+<Description>Wealth is an indication of assets, holdings, and incomes to which you have access.
+Wealth represents more than simple coinage, but it is ultimately an expression of how much
+you can draw upon to pursue your agenda. A peasant may perhaps have only enough Wealth
+to feed himself and his family, while a great lord may have enough Wealth to feed and equip
+tens of thousands of soldiers.</Description>
+<Prerequisites>GM’s approval</Prerequisites>
+<Abstract>Wealth +1</Abstract><Benefit>Your Wealth is considered to be +1 Rank. The exact effects are determined by your total
+Wealth Rank, but suggest you have monetary resources or tangible assets at hand. Wealth is
+akin to an absolute resource, unlike Influence Points, and its effects are more specific. You can
+spend your resources in any way you choose, but companionship acquired in this manner is
+loyalty bought by the coin. It has no lasting commitment.
+Wealth for small purchases is normally drawn against the resources of your house or
+lands (or if a great merchant, other properties). Wealth can be temporarily decreased, but it
+is normally a robust asset that will replenish over time. See page 203 for more information
+on Wealth.</Benefit>
+<Special>Each character has a Wealth Rank tied initially to his or her Social Status Rank.
+By taking the Feat Wealth, a character achieves greater financial resources than he or she
+first started the game with. This can only be done when it fits the story, and with GM’s
+permission.
+If a character takes the Wealth Feat and the Raised Status Feat, his or her Social Status
+may also increase. Between this Feat and Raised Status, you may acquire up to Social Status
+Rank 2. GM’s should normally not allow characters to raise their Social Status beyond Rank
+2 unless it is good for the story.
+This Feat can be taken multiple times. Its effects stack, but should normally be limited
+to an absolute Wealth Rank of 6.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Weapon Focus</Name>
+<Description>You favour one type of weapon, and have practised with it to an extraordinary degree
+of mastery.</Description>
+<Prerequisites>Proficiency with selected weapon
+Base Attack Bonus +1</Prerequisites>
+<Abstract>AT +1 bonus</Abstract><Benefit>Choose one type of weapon. You gain a +1 bonus to all attack rolls when wielding that
+weapon type.</Benefit>
+<Special>This Feat may be taken multiple times. Its effects do not stack. Each time, you must
+apply it to a new type of weapon.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Weapon Focus (Greater)</Name>
+<Description>You have become terrifying with your weapon of choice.</Description>
+<Prerequisites>Weapon Focus with selected weapon
+Base Attack Bonus +8</Prerequisites>
+<Abstract>AT +1 bonus</Abstract><Benefit>Choose one type of weapon for which you have already selected Weapon Focus. You
+gain a +1 bonus on all attack rolls you make using the selected weapon. This bonus stacks with
+other bonuses on attack rolls, including the one from Weapon Focus.</Benefit>
+<Special>You can gain Greater Weapon Focus multiple times. Its effects do not stack. Each time
+you take the Feat, it applies to a new type of weapon.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Weapon Proficiency (Exotic)</Name>
+<Description>You have learned how to use an exotic weapon, such as the whip or one-handed bastard
+sword. This Feat can also represent training in the use of obsidian weapons.</Description>
+<Prerequisites>Base Attack Bonus +1</Prerequisites>
+<Abstract>AT at full AT bonus</Abstract><Benefit>Select one type of exotic weapon (see Table 11-7: Weapons, on page 210 for more
+information). When using that weapon, you make attacks at your full attack bonus.</Benefit>
+<Special>This Feat may be taken multiple times. Each time, it applies to a different weapon.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Weapon Proficiency (Martial)</Name>
+<Description>You have learned to use a martial weapon, such as a longbow or longsword.</Description>
+<Abstract>AT at full AT bonus</Abstract><Benefit>Select one type of martial weapon (see Table 11-7: Weapons, on page 210 for more
+information). When using that weapon, you make attacks at your full attack bonus. This Feat
+can be used to expand your proficient weapons beyond the list in the basic Class description.</Benefit>
+<Special>This Feat may be taken multiple times. Each time, it applies to a different weapon.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Weapon Proficiency (Simple)</Name>
+<Description>You have learned to use simple weapons, such as spears, daggers, and clubs.</Description>
+<Abstract>AT at full AT bonus</Abstract><Benefit>When using simple weapons (page 206) you attack at your full attack bonus.</Benefit>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Weapon Specialisation</Name>
+<Description>Your growing mastery of a favoured weapon lets you deal out far more damage in
+combat.</Description>
+<Prerequisites>Proficient with weapon
+Base Attack Bonus +4
+Weapon Focus</Prerequisites>
+<Abstract>+2 dam</Abstract><Benefit>Choose one type of weapon for which you have already selected the Weapon Focus Feat.
+You gain a +2 to all damage rolls with that weapon.</Benefit>
+<Special>This Feat may be taken multiple times. Each time, it applies to a different weapon.</Special>
+</Feat>
+  <Feat>
+    <Type>G</Type>
+    <Name>Whirlwind Attack</Name>
+<Description>With all the speed and grace of a Water Dancer, you can strike nearby opponents in an
+amazing, spinning attack.</Description>
+<Prerequisites>Dex 13
+Int 13
+Combat Agility
+Combat Expertise
+Dodge
+Veteran</Prerequisites>
+<Abstract>s. Langtext</Abstract><Benefit>In a single combat round, you can choose to forgo your regular attacks and instead
+make one melee attack at your full attack bonus against every foe within 5 feet.</Benefit>
+</Feat>
+  <Feat>
+    <Type>L</Type>
+    <Name>Animal Companion</Name>
+<Description>You have forged a deep, supernatural bond with an animal. The beast’s spirit is part of
+you, and your spirit is part of it.</Description>
+<Prerequisites>Blood of First Men or Blood of the Dragon.
+At the GM’s discretion, other Blood Feats
+may also grant access to this Feat.</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>You gain the friendship and loyalty of one animal. The animal must be iconic to
+the character’s house, land, or tribe (direwolves for members of House Stark, dragons for
+members of House Targaryen, bears, wolves, or shadowcats for Wildlings, etc.). The animal’s
+loyalty lasts only so long as you honestly intends to be that animal’s friend; abuse will sever
+the bond immediately.
+The companion animal will respond to your vocal commands. You may teach the
+animal three tricks or tasks per point of Intelligence the animal possesses. Typical tricks
+include coming when called, fetching, breaking off from combat, staying, etc. The tasks cannot
+be complex. Teaching the animal to accept a rider (assuming it is of a size to do so) requires
+the use of the Handle Animal Skill.
+The animal will always look out for your well being, attacking anyone who menaces or
+threatens you without hesitation. The beast will also show a profound dislike for anyone whom
+you distrust or who might bear you ill will. Over time, your companion animal will become
+acutely connected to your emotional state, growing agitated when you are upset and playful
+when you are happy.
+The link goes both ways, however. Prolonged separation from your companion animal
+leads to melancholy, while the death of the animal provokes a deep depression.</Benefit>
+<Special>If an animal companion is killed or lost, the GM may let you select another Feat. This
+may even include a new animal companion, if appropriate to the story.</Special>
+</Feat>
+ <Feat>
+    <Type>L</Type>
+    <Name>Dreams</Name>
+<Prerequisites>Wis 15
+Appropriate Blood Feat (Blood of the First Men; Blood of the Dragon,
+Dothraki Born) or regional Background (North, the Wild).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>You sometimes dream true. In certain dreams, you can see hints of the future. Most
+such visions come involuntarily (at the GM’s discretion), but if you are particularly concerned
+about a loved one, or otherwise experiencing strong emotions, you may experience such a
+dream (if the player convinces the GM to allow a check, he or she must make a Wisdom check
+at DC 20. If the characters share a sympathetic tie through Blood Feats, the GM may allow a
+bonus). These dreams reveal short glimpses of the future, often cloaked in obscure metaphor.
+The GM must create and describe the vision. Normally, a character should not have a true
+dream more than once per session, and perhaps even less frequently.
+These visions can be treacherous: they rarely signify what they seem to and can rarely
+be interpreted literally. A vision of another character’s death, for example, may indicate only
+the intent to harm that person, a future loss of status or reputation, or even that the world at
+large may soon come to believe that the prophesied victim is dead. An invasion might appear
+as a storm coming from a specifi c direction that batters down castles and ravages fi elds. Even
+specifi c people may be cloaked in metaphor: a Lannister prince might appear as a great lion
+with bloody jaws, for example, or a treacherous man as a serpent.
+Not all dreams are true. You may, if bewildered by the strange symbols of a dream, try
+to interpret them by making a Knowledge: Arcana check (DC 25). If successful, the GM will
+confi rm the nature of the dream and may (at his or her discretion) give a single hint of the
+vision’s meaning. True dreams often show events whose origins are not easily determined, or
+ones that, once set in motion, are impossible to stop. No one knows for certain whether true
+dreams are set in stone, or whether the future can be changed.</Benefit>
+</Feat>
+ <Feat>
+    <Type>L</Type>
+    <Name>Pious</Name>
+	<Description>The Seven Gods of the Andals watch over their children. Your faith and devoted service
+to the Seven has created a special link between you and the gods. So long as your faith remains
+true, your prayers will be heard — and may even be answered.</Description>
+<Prerequisites>Wis 15
+Appropriate regional Background (The Reach, the Riverlands, the Stormlands,
+the Westerlands, the Vale of Arryn)
+Blood of the Andals
+Knowledge: Religion (the Seven) 3 Ranks</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>You may pray to the Seven for guidance and aid. Unlike the blessing that septons
+can call upon, this Feat allows anyone who worships the Seven to turn to them for aid and
+intervention. Always bear in mind that these invoked miracles are not spells, and may be
+fundamentally similar to the faith-based blessings that Godsworn septons and septa can
+provide.
+To gain the attention and favour of the Seven, you must recite a prayer to one of the
+Seven asking for guidance or help with a specifi c problem or endeavour. The prayer and the
+problem must be both be appropriate to the aspect of the Seven invoked. The Mother, for
+example, can be invoked to keep soldiers (every one of them someone’s son) safe in battle,
+but cannot bring victory — the Warrior must be prayed to for that. The Seven Who are One,
+on page 351, describes the attributes and aspects of the Seven in more detail. You must have
+demonstrated your faith to the Seven clearly in both word and deed before there is even any
+hope of invoking the aid of the Seven. The request must also be worthwhile.
+If you are worthy and the need is great (both at the GM’s discretion), you may make a
+Wisdom check to see if your prayer is heard. The Modifi ers to this check, and its results, are
+described on the tables below:
+The intervention of the Seven should always be subtle and indirect. GMs should use
+divine insights and interventions as plot devices, helping to drive campaigns and reward strong
+role-playing. There should always be a “logical explanation” that also accounts for the outcome
+of the prayer. The Seven rarely speak with voices mortal men can hear, and even then their
+voices are heard in dreams or fever visions. Even the most pious usually have cause to wonder
+if the Seven have intervened at all.</Benefit>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Able Body</Name>
+<Description>Arising from a noteworthy Dexterity or Strength (or both), you are gifted with a knack
+for physical and athletic pursuits.</Description>
+<Prerequisites>Str 13 or Dex 13
+Appropriate House Affiliation (Arryn, Greyjoy, Martell, Tyrell, No
+House)
+or regional Background (Dorne, the Iron Islands, the Reach).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>Select any two Skills from the following list that you do not have as Class Skills.
+These Skills will now always count as Class Skills. Skills that may be chosen by this Feat
+are as follows: Balance, Climb, Escape Artist, Hide, Move Silently, Ride, Swim, Tumble,
+and Use Rope.</Benefit>
+<Special>Characters may take this Feat more than once, choosing new Skills each time.</Special>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>As High As Honour</Name>
+<Description>The honour of House Arryn is very nearly unimpeachable. Anyone wishing to smear an
+Arryn’s good name had best have rock-solid evidence, or the kind of spy network most great
+factions can only dream of.</Description>
+<Prerequisites>Appropriate House Affiliation (Arryn).</Prerequisites>
+<Abstract>+2 one Reputation</Abstract>
+<Benefit>You gain +2 Points to one Reputation, so long as that Reputation is one that is not
+in conflict with your house motto. For example, Honourable, Honest, Generous, Fierce,
+Loyal, or Valorous would all be acceptable Reputations; Honey-tongued, Sneaky, or Wild
+would not.
+Furthermore, anyone attempting to besmirch your good name or turn another character
+against you (for example using Influence, Little Birds, or any social Skill checks) does so at
+a penalty of -5.</Benefit>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Blood of the Andals</Name>
+<Description>Fair-haired and fierce, the Andals came to the lands of Westeros at the end of the Age
+of Heroes, bringing with them steel and the worship of the Seven. As diverse in their talents
+as the seven gods they venerated, the Andals spread over the face of Westeros, conquering all
+of it save the North. The blood of those ancient heroes flows true in your veins, giving you
+talents beyond those of lesser men.</Description>
+<Prerequisites>Appropriate House Affiliation (Arryn, Baratheon, Frey, Lannister, Tully, Tyrell)
+or regional Background (the Reach, the Riverlands, the Stormlands, the Westerlands, the Vale
+of Arryn).</Prerequisites>
+<Abstract>+1 to all Ability-based Skill checks</Abstract>
+<Benefit>You receive a +1 to all Ability-based Skill checks based upon a specific Ability (Str,
+Int, etc.) that is chosen at the time the Feat is taken. The favoured Ability must be chosen at
+character creation and may never be changed. Additionally, you may have an intuitive link to
+the members of your family (see sidebar, Intuitive Family Links, page 167).</Benefit>
+<Special>
+This Feat may only be taken at 1st Level. Only one blood Feat may be taken by any
+character.</Special>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Blood of the Dragon</Name>
+<Description>You are a scion of House Targaryen, invaders who rode dragons and conquered and
+united the Seven Kingdoms of Westeros centuries ago. The blood of the Dragon stems from
+the high lords of ancient Valyria, who worshipped no gods and worked ancient magics before
+the Doom overtook them.</Description>
+<Prerequisites>Appropriate House Affiliation (Targaryen).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>Legend has it that dragon fire flows in the veins of Valyrian trueborn. You may make a
+Will Save (at DC 15) to ignore heat or fire damage (up to 10 damage per round), as Daenerys
+did at the birth of her dragons. The blood of old Valyria also brings with it profound strength
+of will: you may add your Charisma bonus (minimum +1) to any d20 roll, once per day (you
+can decide after you roll). Additionally, you may have an intuitive link to the members of your
+family (see sidebar, Intuitive Family Links, page 167).</Benefit>
+<Special>
+This Feat may only be taken at 1st Level. Only one blood Feat may be taken by any
+character. Additionally, depending on the era of the campaign, GM approval may be required
+to select his Feat.</Special>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Blood of the First Men</Name>
+<Description>The First Men came to Westeros in the Age of Dawn, bearing weapons of bronze and
+great leather shields. They fought ancient wars with the children of the forest, until they forged
+the Pact and took up worship of the old gods at the beginning of the Age of Heroes. In the
+ancient realms of the North, the blood of the First Men still flows true; their faith in the old
+gods has always served them.</Description>
+<Prerequisites>Appropriate House Affiliation (Stark, Umber)
+or regional Background (the North).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>Born to the harsh climes of the North, you receive a +1 to all Fortitude Saves. The
+wisdom and traditions of the First Men serve you well — you may add your Wisdom bonus
+(minimum +1) to any d20 roll, once per day (you can decide after you roll). Additionally,
+you may have an intuitive link to the members of your family (see sidebar, Intuitive Family
+Links, right column).</Benefit>
+<Special>This Feat may only be taken at 1st Level. Only one blood Feat may be taken by any
+character.</Special>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>blood of the Ironborn</Name>
+<Description>The men of the Iron Islands have been feared for thousands of years, as fierce raiders
+who ply the seas and worship their terrible Drowned God. These hard folk are supposedly
+descended from the legendary Grey King. They had once carved out kingdoms on the
+mainland of Westeros, but were eventually conquered by the Targaryens. Since that time, their
+infl uence has retreated to the Iron Islands, but there the true Ironborn still dwell, strong and
+spiteful. You may call yourself Ironborn, no doubt with pride.</Description>
+<Prerequisites>Appropriate House Affi liation (Greyjoy)
+or regional Background (the Iron Islands).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>The pitiless clime of the Iron Islands breeds sturdy men indeed: you receive a +1 bonus
+to all Fortitude Saves. The harsh land forces you to adapt and survive — you may add your
+Constitution bonus (minimum +1) to any d20 roll, once per day (you can decide after you
+roll). Additionally, you may have an intuitive link to the members of your family (see sidebar,
+Intuitive Family Links, right column).</Benefit>
+<Special>
+This Feat must be taken at 1st Level. Only one blood Feat may be taken by any
+character.</Special>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Blood of the Rhoyne</Name>
+<Description>A dark-skinned folk from foreign shores, the Rhoyne came to Westeros in a fleet of
+10,000 ships, led by the legendary warrior queen, Nymeria. The Rhoynish folk secured the
+crown of Dorne through marriage and have ruled the southern realm ever since. Language,
+law, and custom set the Rhoyne apart from the other peoples of Westeros. The fiery Rhoynish
+blood shows true in your family, making you a force to be reckoned with.</Description>
+<Prerequisites>
+Appropriate House Affi liation (Martell)
+or regional Background (Dorne).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>The competitive nature of the Rhoyne gives you a +1 bonus to all non-combat related
+opposed Skill and Ability checks (this would give a bonus to Listen vs. Move Silently,
+for example, but not to overhear a noise in the distance). This does not include the use of
+Infl uence. Additionally, you may have an intuitive link to the members of your family (see
+sidebar, Intuitive Family Links, right column).</Benefit>
+<Special>
+This Feat must be taken at 1st Level. Only one blood Feat may be taken by any
+character.</Special>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Dothraki Born/Name></Name>
+<Description>This is a Blood Feat. The Dothraki ride from a very early age, taking to the saddle as if
+they were born to it. They are masters of the horse, and ride better than any Westerosi.</Description>
+<Prerequisites>Appropriate regional Background (Dothraki).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>Early familiarity and constant experience makes you especially adept with horses. You
+receive a +4 bonus to Ride checks, and gain a +1 Defence Bonus when mounted and wearing
+no armour.</Benefit>
+<Special>This Feat must be taken at 1st Level. Only one blood Feat may be taken by any
+character.</Special>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Family, Duty, Honour</Name>
+<Description>House Tully has always considered that the fi rst duty of its scions is to their immediate
+family — perhaps even before their duty to the house as a whole. No Tully is ever likely to be
+punished by the head of the house for helping out a brother or sister, even when that sibling
+was in the wrong.</Description>
+<Prerequisites>Appropriate House Affiliation (House Tully).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>When you successfully perform the aid another action (page 237) for another character who
+has House Affi liation Tully, or is a sworn bannerhouse to Tully, he or she gains a +4 bonus to the
+task rather than the usual +2 (for example, the target could gain a +4 to an attack or defence roll,
+or to a Skill check). Furthermore, if he or she succeeds at the task, you gain a +1 bonus on all
+attack rolls, damage rolls, defence rolls, and Saving Throws you make in the following round. If
+the character you aid is a member of your immediate family (parent, sibling, or child), the target
+receives a +6 on the aided task, and if successful, you gain a +2 on rolls the following round.</Benefit>
+<Special>In a campaign in which all the characters are siblings of House Tully, the GM may wish
+to reduce the effects of this Feat, perhaps cancelling the increased benefi ts for aiding members
+of the immediate family.</Special>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Fire And Blood</Name>
+<Description>A wounded dragon is at its most dangerous, full of anger and ready to strike out to
+slay its tormentors.</Description>
+<Prerequisites>Appropriate House Affiliation (Targaryen).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>On any round in which you sustain an injury from a melee combat attack, you may
+make enter a state of cold, calculating anger. When angry, you gain a +2 bonus on damage
+rolls when making a melee attack anyone who has injured you, and you can make an additional
+attack each round against them at your full attack bonus. Any attacks you make while angered
+against a character who has not injured you are at a -2 penalty on attack and damage rolls. Your
+state of anger ends as soon as all those who have injured you are dead or no longer in sight.
+You may enter a state of anger up to a number of times per day equal to 1 + your Wisdom
+Modifier (minimum 1).</Benefit>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Giant’s Blood (Optional Feat)</Name>
+<Description>Giants are fi erce things, all hair and teeth, where the women have beards as great as their
+husbands. Sometimes the women take human men for lovers, and give birth to the half-bloods.
+Giant’s Blood is a thing of the north, but it may carry for several generations, granting children
+powerful limbs and a towering stature.</Description>
+<Prerequisites>
+Appropriate House Affiliation (the Vale of Arryn, Baratheon, Umber, No House)
+or regional Background (the North, the Stormlands, the Westerlands, the Wild).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>Born with the blood of a giant running through your veins, you are tremendously hardy
+and strong, receiving a +4 Str and +2 Con. Additionally, whenever you are subject to a size
+modifi er (such as during grapple checks, trip attempts, or during some special attack checks)
+you are treated as one size larger if doing so is benefi cial to you. Your great size does not come
+without cost, however, and thus you suffer a -4 penalty to Dex. At over six and a half feet,
+you can wield two-handed weapons in one hand; and armour (and some weapons) cost 150%
+— 200% more than usual, and must be specially made to fit.</Benefit>
+<Special>This Feat may only be taken at 1st Level. Giant’s Blood counts as a blood Feat and
+may not be taken in conjunction with any other bloodline Feat. Additionally, characters with
+Giant’s Blood are so exceptionally powerful in combat that they should be regarded as ECL
++1. GMs may wish to limit the amount of Giant’s Blood characters in the campaign, or may
+even waive the ECL Modifi er if combat will not be a substantial part of the game.</Special>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Gold Breeder</Name>
+<Description>You have a talent for raising and managing vast sums. Some say that you can create a
+shower of golden coins simply by rubbing two together. In truth, you have a talent for sums
+and a knack for juggling loans, debts, and usury. Such talents would make you an invaluable
+addition to any household or court.</Description>
+<Prerequisites>Int 13, Appropriate House Affiliation (Arryn, Lannister, Martell, Tyrell)
+or regional
+Background (Dorne, the Free Cities, King’s Landing, the Reach, the Vale of Arryn, the
+Westerlands).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>You receive a +2 bonus to any rolls made to raise money, or in any transactions
+dependent upon Wealth. Additionally, the amount of money raised by any Skill or Infl uence
+check is increased by an amount equal to your Int Modifier x 20%.</Benefit>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Growing Strong</Name>
+<Description>The Tyrells long ago learned to apply the principles of hard work and an eventual harvest
+to many other fields, including warfare and politics.</Description>
+<Prerequisites>Appropriate House Affiliation (Tyrell).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>You may spend one week to define a particular goal you wish to achieve, and a plan to
+achieve it. Whenever you are working towards your goal and in accordance with your plan, you
+gain a +1 bonus on all directly relevant Skill checks, attack rolls, and damage rolls. The GM
+will decide whether you are fulfilling these requirements with regard to any particular roll.</Benefit>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Hear Me Roar</Name>
+<Description>The Lannisters are feared throughout Westeros, not just because of their prowess in
+battle but because of what they will do to the opposition’s survivors and kin once victorious.</Description>
+<Prerequisites>Appropriate House Affiliation (Lannister).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>Once per melee combat, you may make use of the Intimidate Skill to Demoralise
+Opponent (see Intimidate, page 156) as a free action instead of as a standard action. The
+opponent must be aware that you are a Lannister, and you must be capable of shouting (this
+could be a battle cry, threat, or just a wordless roar).</Benefit>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Keen Mind</Name>
+<Description>Sharp senses, quick wits, and sound faculties combine to give you a knack for
+discerning, learning, and remembering.</Description>
+<Prerequisites>Int 13 or Wis 13, Appropriate House Affiliation (Frey, Tully, Tyrell, No House) 
+or regional Background (Free Cities, the Reach, the Riverlands).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>Select any two Skills from the following list that you do not have as Class Skills. These
+Skills now always count as Class Skills. The following Skills are available: Appraise, Decipher
+Script, Forgery, Heal, Knowledge (Any), Listen, Sense Motive, Spot.</Benefit>
+<Special>You may take this Feat more than once, but must choose two new Skills from the list
+each time.</Special>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Noble Spirit</Name>
+<Description>Something in your mien inspires intense loyalty.</Description>
+<Prerequisites>Cha 13
+Appropriate House Affiliation (Arryn, Baratheon, Stark, No House)
+or regional Background (the North, the Stormlands, the Vale of Arryn).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>You form a deep bond of friendship and trust with one friend, companion, or follower,
+selected at the time the Feat is assigned. That character becomes a true companion and will
+never willingly betray you of his or her own accord. Any attempts to trick this companion into
+a betrayal suffer a -10 penalty to any social Skill checks or Influence rolls. Additionally, you
+can call upon your ally for aid in times of need, although this is a resource that should not be
+abused or taken lightly. The friendship should be considered mutual, and the friend may call
+upon you for help at times. GMs should determine what help can be provided as appropriate
+to the particular character.
+The GM may, at his or her discretion, require an episode of intense role-play or some
+meaningful action from you for this Feat to take effect. The Greatjon’s confrontation with
+Robb Stark and his direwolf, Grey Wind, is an excellent example.
+The effects of this Feat last as long as the companion lives. If the loyal companion is
+slain, you may apply this Feat to a different character (although an appropriate role-playing
+encounter may be required). Conversely, if you betray the friend the Feat is lost.</Benefit>
+<Special>
+This Feat may be taken multiple times. Each time, you must apply it to a different
+character.</Special>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Ours Is The Fury</Name>
+<Description>The Baratheons are terrifying in battle, filled with a righteous fury that makes them
+almost unstoppable.</Description>
+<Prerequisites>Appropriate House Affiliation (Baratheon).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>You are extremely stubborn, and that stubbornness can burst into fiery anger. You gain
++1 to Will Saves. In addition, you may fly into a rage, gaining a +2 to Strength, and +2 to
+attack rolls, but suffering a -2 to Armour Class. A fit of rage lasts for a number of rounds
+equal to 3 + Constitution Modifier (minimum of 3). At the end of the rage, you lose the
+rage modifiers and become fatigued for the duration of the current encounter. Entering a rage
+takes no time itself, but you can do it only during your action, not in response to someone
+else’s action.</Benefit>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Silver Tongue</Name>
+<Description>Presence, poise, and demeanour combine to make you an exceptionally persuasive
+individual.</Description>
+<Prerequisites>Cha 13
+Appropriate House Affiliation (Frey, Lannister, Tyrell, No House)
+or regional Background (King’s Landing, the Reach, the Riverlands, the Vale of Arryn, the Westerlands).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>Select any two Skills from the following list that you do not have as Class Skills. These
+Skills now always count as Class Skills. The available Skills are: Bluff, Diplomacy, Disguise,
+Gather Information, Handle Animal, Intimidate, Perform (Any).</Benefit>
+<Special>You may take this Feat more than once, but must choose two new Skills from the list
+each time.</Special>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Stubborn</Name>
+<Description>The determination of your people is legendary, and you are no exception. You are
+extremely headstrong, and it is very difficult to sway you from a decided course.</Description>
+<Prerequisites>Appropriate House Affiliation (Baratheon, Greyjoy, Martell, Targaryen, Tully, No
+House)
+or regional Background (Dorne, Dothraki Sea, the Iron Islands, the Riverlands, the
+Stormlands).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>You gain a +1 bonus to all Will Saves. Additionally, you gain a +1 Shock Value, as you
+aren’t willing to go down easily, and a +1 conditional Fort Save against Shock.</Benefit>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Tradesman</Name>
+<Description>You have completed an apprenticeship at a trade, or have spent long hours observing a
+master craftsman at work.</Description>
+<Prerequisites>Appropriate House Affiliation (Greyjoy, Tully, Umber, No House)
+or regional Background (the Iron Islands, the North, the Riverlands).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>Select any two Craft or Profession Skills that you do not have as Class Skills. These
+Skills now always count as Class Skills, and you gain a +2 check bonus while using them.</Benefit>
+<Special>You may take this Feat more than once. Each selection applies to two new Craft or
+Profession specialities.</Special>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Twins</Name>
+<Description>Freys are a prolific brood, and you almost always have a relative nearby that you can call
+upon for aid. He or she is not necessarily loyal to you beyond the ties of blood, and the favour
+may likely cost you in the long term.</Description>
+<Prerequisites>Appropriate House Affiliation (Frey).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>When you are in need of aid, there is a very high chance a relative will be close by, and
+will help you out to the best of his or her ability. This is treated like an Influence check (DC
+10), with the following conditions. The help must be logical and appropriate — you should not
+make this check if falling down a chasm, or if there is no reasonable way for a relative to be at
+hand (you are at sea, beyond the Wall, etc.). You should not make this check more than once
+a session (or fortnight, depending on the game timeline).</Benefit>
+<Special>Help can take many forms. It may be a haven on the side of the road; an extra sword
+in a tavern brawl; passage on a ship; or even a rushed wedding. The GM should ensure the
+help gets you out of your particular predicament, but this does not mean it will be in a way
+you like or expect. GMs must, however, be careful not to abuse this power, and should use
+this Feat as a way to forward the plot or introduce new plot elements. GMs may also use the
+results of the Influence check as an indicator of the value of the help (a great success could
+mean tremendous aid with few strings attached, while a marginal success could translate into
+just enough help at very high cost).
+If you do not have the Noble Mandate ability, you gain the ability as a 3rd Level Noble,
+but only in regards to asking for assistance from a relative.</Special>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Unbowed, Unbent, Unbroken</Name>
+<Description>The princes of Dorne are renowned for their willingness to fight on just long enough to
+finish the job — even at the cost of their own lives.</Description>
+<Prerequisites>Appropriate House Affiliation (Martell).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>When reduced to between -1 and -9 Hit Points, you may choose to act normally, as
+though you still had 1 Hit Point or more, although you may still be dying and will continue to
+suffer any effects of Serious Injuries that have been inflicted upon you. Once in this state, you
+can’t be stunned because of shock. If you reach -10 Hit Points, you immediately die.</Benefit>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Unchained Giant</Name>
+<Description>The members of House Umber laugh at pain and revel in physical contests. They are
+some of the hardiest men of the North, and their survival depends on their ferocity and resolve.</Description>
+<Prerequisites>Appropriate House Affiliation (Umber).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>You are harder to shock and gain a +1 to your Shock Value, and a +2 bonus to Fort
+Saves made against Shock. Additionally, in battle you can fight beyond 0 Hit Points, only
+falling when you reach a negative value equal to double your Con Modifier (min of -2,
+maximum of -8). For example, Cley Umber has a Con of 16 (+3 Modifier). He can fight until
+he reaches -6 Hit Points, at which time he immediately collapses.</Benefit>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Unknown Heritage</Name>
+<Description>You do not know your parentage, and may be a lost heir or somehow else secretly
+destined for greatness.</Description>
+<Abstract>s. Langtext</Abstract>
+<Benefit>You do not know some great secret of your past. At an appropriate point in the game,
+you may replace this Feat with any other Background Feat. This may only be done in a way
+that fits with the story, and with GM’s permission.</Benefit>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>We Do Not Sow</Name>
+<Description>The raiders of House Greyjoy were once dreaded in every coastal town. In recent years
+the Greyjoys have been held in check somewhat by the power of the King and his supporters,
+but with the current crises the ironmen have begun to look at the ripe towns and ports of the
+mainland with thoughts of plunder, death, and rapine once more.</Description>
+<Prerequisites>Appropriate House Affiliation (Greyjoy).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>If you are leading a group of characters on a raid, the majority of whom have either at
+least one Level in the Raider Class or are from the Iron Islands or both, you may set up an
+ambush or other surprise attack by taking at least 1 hour to plan and prepare the group. Each
+character in the raiding group (including you) gains a +4 bonus to all Hide and Move Silently
+checks, and a +4 bonus to Initiative (these stack with other Initiative bonuses), while in or
+moving into their designated positions. Additionally, during the first round of the surprise
+attack, the characters all gain +2 attack and damage bonuses.</Benefit>
+<Special>The player must provide the GM with a complete “plan of attack” covering the intended
+actions of all the characters taking part in the attack. Armed with this plan, the GM will be
+able to ascertain whether the characters qualify for the various bonuses at any one time.</Special>
+</Feat>
+<Feat>
+    <Type>B</Type>
+    <Name>Winter Is Coming</Name>
+<Description>The Starks have a reputation for being prepared for anything, and their opponents in
+the great game of thrones are often surprised when a Stark seems to have anticipated their
+plots and prepared countermeasures, however secretive their plans had been. The Starks are
+not actually prepared for everything, but they are capable of considerable foresight when they
+set their minds to a particular danger.</Description>
+<Prerequisites>Appropriate House Affiliation (Stark).</Prerequisites>
+<Abstract>s. Langtext</Abstract>
+<Benefit>You may spend one day in preparation for a specific threat. This may be almost any one
+thing, but must be specific. For example, you might regard assassination as the greatest danger,
+or a Lannister invasion, or the return of the Targaryens from exile, or the coming Winter itself,
+or the arrival of the Others out of legend. Once you have defined a threat and prepared for it,
+you gain a +2 bonus on all die rolls directly connected with countering the threat or defending
+against it. This could include Skill checks, attack rolls, Saving Throws, damage rolls, and
+defence rolls, as appropriate.
+The GM is always the arbiter as to whether a particular die roll gains the benefit from
+this Feat. For example, if you are prepared against assassination, you will gain the benefit of
+this Feat on Saving Throws against poison placed in a food specifically to kill you, but not
+against the poison inherent in a plant that you eat when lost and hungry in the wilderness
+(though you would have gained the bonus if your preparation had been against having to live
+rough for a time). Likewise, preparation against assassination will give you bonuses to all
+combat-related die rolls when fighting a lone individual who has been tasked to slay you in
+your bed, as well as in Skill checks to detect the assassin in the first place, but it will not give
+you any bonuses against the attack of a random thief intent on mugging you in Flea Bottom,
+or against an enemy met on the battlefield, or against a rival during a bar-room brawl.
+Note that this Feat cannot be used offensively — you cannot use it to prepare yourself
+to assassinate an enemy, for example.
+You may only use this Feat to be prepared for one danger at any one time. However,
+you may cancel your preparations to defend against the currently selected threat, then take one
+day to prepare against a newly specified threat instead.</Benefit>
+</Feat>
+</ArrayOfFeat>

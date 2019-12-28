@@ -1,0 +1,719 @@
+﻿!---
+Table 2-3: Social Status and ECL Modifiers
+RANK|ECL MODIFIER***|DESCRIPTION
+0|+0|Respected Smallfolk / Hedge Knight / Sellsword / Novice Maester
+1|+0*|Sworn Sword / Household Servant / Lesser Merchant / Acolyte Maester
+2|+1|House Retainer / Landed Knight / Merchant / Maester
+3|+2|Member of a Minor House / Greater Landed Knight / Greater Merchant
+4|+3|Member of a Great House
+5|+4|Member of the Royal Family
+(6)|+4**|King (or ruling Queen)
+EndTable
+* To progress from Social Status rank 0 to rank 1 requires the character to have the Feats Raised Status and Wealth.
+** The king (or queen, if she rules) would be of Social Status rank 5, and then have the Feats Heir and Head of House.
+*** Note: Child characters (page 50) should be considered -1 ECL (minimum of 0).
+---!
+!---
+Table 2-1: Starting Character Level
+POWER LVL|STARTING CHARACTER LVL
+Low-powered game|1st, children
+Average-powered game|1st to 4th
+High-powered game|5th to 8th
+Very high-powered game|9th to 12th
+Extremely high-powered|game 13th to 16th
+Game of legends and myths|17th and above
+EndTable
+---!
+!---
+Table 3-1: Ability Score Costs
+ABILITY SCORE|POINT COST
+Less than 8|-1 per Point
+8|0
+9|1
+10|2
+11|3
+12|4
+13|5
+14|6
+15|8
+16|10
+17|13
+18|16
+EndTable
+---!
+!---
+Table 3-2: Ability Score Value Descriptions
+ABILITY SCORE|MODIFIER|DESCRIPTION (EFFECT ON CHARACTER AND GAME PLAY)
+1|-5|Incapacitated
+2-3|-4|Disabled (or infant). A character with this Ability Score is noticeably damaged, whether at birth or from injury. He or she may be the object of scorn and derision, disinherited, or hidden away. Conversely, such a character’s achievements in other areas may be all the more well-regarded. Still, hardly a day will pass in which this very low Ability Score will not seriously inconvenience the character and hamper his or her progress.
+4-5|-3|Deficient (or child). Players should expect low Ability Scores at this level to affect their characters regularly in play, and other characters will defi nitely notice the deficiency when interacting with them. There may be “talk” in social circles about the problem. However, this value may be appropriate for a young child.
+Example — Constitution: Without horse or palanquin, Kardaine’s aging father had no hope of reaching the keep’s walls before curfew fell. Already he leaned heavily on his walking staff , and his pace had slowed to crawl since he’d fallen behind the caravan the day before.
+6-7|-2|Notably weak (or youth). Abilities in this range will affect Skills based on them in an obvious way and may be noticed by other characters, especially in contrast to more able peers. However, this value may be appropriate for an older child.
+Example — Wisdom: Ser Ran felt sorry for his companion, Mirian, for she was unlikely to be promoted to a captaincy. Though she was of noble birth, an able swordswoman, and a charismatic leader, her ill-considered comments had harmed the morale of her company on more than one occasion.
+8-9|-1|Below average (or young adult). Training in specific skills may overcome this slightly lower Ability Score. This value is not uncommon for a character who is nearly a grown man or woman.
+Example — Charisma: Ser Sebastian hoped Eileen would be impressed with his skill in the hunt, since he knew her other suitors would be more handsome and better schooled in the social graces than he.
+10-11|0|Adult human average. The character is not noted for this Ability, nor is he or she notably defi cient in it.
+Example — Intelligence: As a child, Laurel had longed to sit at the table with the young apprentice maesters, but while their talk filled her imaginationwith pictures of far lands and strange philosophies, she could not fathom the discipline it would take to converse with them as equals.
+12-13|+1|Above average. The character’s Ability enhances his or her related Skills, but is not seen as unusual.
+Example — Strength: The party knew that with Laurel’s help, the firewood could be quickly gathered and they could settle into camp before nightfall.
+14-15|+2|Notable. The Ability has a moderate character or game effect.
+Example — Dexterity: Though in the end the tourney was taken by Lord Fossaway’s experience, Ser Ran Tyrell’s horsemanship and agility saved him from any serious injury, and several admirers came away from the joust wondering at the background and training of the quick young knight.
+16-17|+3|Highly capable. Even a young character with an Ability score at this level will have been noticed by his or her peers and perhaps by wider society. Other characters may expect that he or she has training in Skills guided by this Ability, and it may be difficult for the character to avoid being stereotyped. This Ability will be apparent in almost any activity the character undertakes.
+Example — Charisma: Though he would have preferred to be complimented for his position and achievements, septon Kardaine was still remembered in his home village as the beautiful and charming young novice, and, to his embarrassment, whenever he visited the Sept the old women there couldn’t help showing him off and remarking how they’d known what a handsome man he’d become.
+18-19|+4|Outstanding (best among normal folk). The character cannot help but be known to excel in this regard.
+Example — Intelligence: “Too clever by half, that Heldan,” growled old Griz. “How was I to know he had that paper decoded afore he ever talked to me? Caught out the lie Morro’d put me up to straight away, like. Guard your tongue around that one, I say. Safest not to give him nothin’.”
+20-21|+5|Extraordinary (best in the region). This fantastic Ability is practically impossible to hide. Muscled physique, quickness, stamina, insight, serenity, or beauty might give it away in a chance meeting, and a character with such a statistic will have a reputation for his or her potential in this area, if not yet for any specific Skill. A person such as this would come to the attention of the best tutors, the highest noble sponsors, and, perhaps, the most jealous rivals.
+Example — Constitution: Though many years had passed, Jenna was still the talk around the Twins when other news got stale. It had been a mystery how she survived the end of winter with her kinfolk dead around her, poor lass, but no one dared pity her now, or risk the wrath of her six-foot frame.
+22-23|+6|Best in the kingdom (maximum human potential).
+Example — Strength: After his performance in the joust, the fame of the anonymous hedge knight and his emblem, a burning rook, spread quickly through the lists. Several younger knights joked nervously about drinking hard enough tonight to have to withdraw on the morrow. “He’d withstand the Mountain that Rides,” one said, exaggerating, but no one laughed.
+24-25|+7|Beyond human achievement
+26+|+8 (and up)|Legendary ability
+EndTable
+---!
+!---
+Table 3-3: Age Adjustments
+AGE CATEGORY|ABILITY ADJUSTMENTS (NET)|SKILL ADJUSTMENTS
+Very young (below 7)|Discuss with the GM|Discuss with the GM
+Young Child 7-8|-4 Str, +2 Dex, -3 Con, +2 Cha|+6 Hide, +2 Climb, +1 Bluff*
+Child 9-11|-3 Str,+2 Dex, -3 Con, +2 Cha|+4 Hide, +2 Climb, +2 Bluff*
+Early teen 12-13|-2 Str, +1 Dex, -2 Con, +1 Cha|+2 Hide, +2 Climb, +2 Bluff*
+Young adult 14-15|-1 Str, -1 Con|+1 Hide, +1 Climb, +1 Bluff*
+Adult 16-34|Normal|Normal
+Middle Age 35-52|-1 Str, -1 Dex, -1 Con, +1 Int, +1 Wis, +1 Cha|None
+Old Age 53-69|-3 Str, -3 Dex, -3 Con, +2 Int, +2 Wis, +2 Cha|None
+Venerable 70+|-6 Str, -6 Dex, -6 Con, +3 Int, +3 Wis, +3 Cha|None
+EndTable
+* Children can be very good at deceiving adults when the adults are distracted, inattentive, or engrossed in other matters. Like servants and pets, children are quite often treated as if they are invisible. If an adult has reason to suspect a child of mischief or has full attention upon the child, these Bluff bonuses should not be counted.
+Note: Characters who are age 11 or younger are not very physically mature. They move about two-thirds as fast as adults (base speed 20 feet per round), and cannot use large shields, or two-handed weapons, though they may wield one-handed weapons with both hands (GMs might allow exceptions to characters with a particularly high Strength).
+---!
+!---
+Table 3-4: Adjustments from Aging
+AGE CATEGORY|ABILITY ADJUSTMENTS|SKILL ADJUSTMENTS
+Child 9-11|+1 Str|-2 Hide, +1 Bluff*
+Early teen 12-13|+1 Str, -1 Dex, +1 Con, -1 Cha|-2 Hide
+Young adult 14-15|+1 Str, -1 Dex, +1 Con, -1 Cha|-1 Hide, -1 Climb, -1 Bluff*
+Adult 16-34|+1 Str, +1 Con|-1 Hide, -1 Climb, -1 Bluff*
+Middle Age 35-52|-1 Str, -1 Dex, -1 Con, +1 Int, +1 Wis, +1 Cha|None
+Old Age 53-69|-2 Str, -2 Dex, -2 Con, +1 Int, +1 Wis, +1 Cha|None
+Venerable 70+|-3 Str, -3 Dex, -3 Con, +1 Int, +1 Wis, +1 Cha|None
+EndTable
+---!
+!---
+Table 6-5: Godsworn Social Status
+GODSWORN LVL|POSITION|INFLUENCE POINTS
+1-2|Initiate of the Faith|5 (Faith)*
+3-5|Junior Member of the Faith|10 (Faith)**
+6-10|Senior Member of the Faith|15 (Faith)
+11+|High Officer of the Faith|20 (Faith)
+--|High Septon|25 (Faith)***
+EndTable
+* A highborn character loses 5 Influence Points from his or her house upon joining the Faith.
+** A highborn character loses another 5 Influence Points (10 total) from his or her house upon becoming a Junior member.
+*** The High Septon gives up his name (so that commoners and nobles become equal). He loses any remaining Influence Points over his house, gained from Social Status.
+---!
+!---
+Table 8-2: Leechcraft Healing Table
+RESULT|HIT POINTS RESTORED
+15-20|1
+21-25|2
+26-30|3
+31-35|4
+36-40|5
+EndTable
+---!
+!---
+Table 8-3: Pious Prayer Modifiers
+MODIFIER|CONDITION
++1 to +5 *|Matter directly concerns the Seven (the actions of a Godsworn, offences against a sept or the Faith itself)
++2|Request can be granted through indirect means
++2|Character's faith is particularly noteworthy (it has harmed or hindered the character)
++1 to +3 *|Prayer role-played with distinction
+-2|Request would lead to the benefit or gain of the Pious character
+EndTable
+* GM's discretion
+---!
+!---
+Table 8-4: Prayer Results
+CHECK RESULT|INTERVENTION EFFECT
+1-15|No discernible result
+16-20|Indirect Intervention: the praying character gains an insight or hunch into what might lie at the root of their problems or how they might be solved (the GM can offer veiled hints as to the best course of action).
+21-25|Minor Intervention: seemingly random circumstances aid the character for a brief but crucial period. Abrupt changes in the weather might effect the outcome of a battle, chance meetings with allies might provide rescue or needed information, perhaps even a reroll of one critical check, similar to effects of Fortune's
+Favour. Seemingly miraculous recovery from injury or sickness also fall under this category.
+26+|Direct Intervention: the character actually hears the voice of one of the Seven or is witness to events so extraordinary that their value as portents in unmistakable. As long as the praying character keeps to the course the Seven direct them upon, they receive the benefits of Minor Intervention at critical junctures (at the GM's discretion).
+EndTable
+---!
+!---
+Table 12-3: Actions in Combat
+STANDARD ACTION|MOVE ACTION|FULL-ROUND ACTION|FREE ACTION
+Melee Attack|Move|Full attack|Drop an item
+Ranged Attack|Load a light crossbow|Multiple ranged attacks|Drop to floor (prone)
+Unarmed Attack|Mount or dismount|Charge**|Defence check***
+Aid another|Control a frightened mount|Escape from a net|Speak
+Draw a hidden weapon|Open or close a door|Extinguish flames
+Escape a grapple|Move a heavy object|Load a heavy crossbow
+Feint|Pick up an item|Run
+Ready|Stand up from prone|Prepare splash weapon
+Sunder an object|Ready or loose a shield*|Provide first aid
+Total defence|Retrieve a stored item|Withdraw**
+Use Special Ability/Feat/Skill (varies)|Draw or sheathe a weapon*|Use Special Ability/Feat/Skill (varies)
+Start/Complete Full-Round Action|Use Special Ability/Feat/Skill (varies)
+EndTable
+* A character with a Base Attack Bonus of +1 or higher can combine one of these actions with a regular move. A character with the Two-Weapon Fighting Feat can draw two light or one-handed weapons as a regular move.
+** May be taken as a standard action if a character is limited to taking only a single action in a round.
+*** A character may make multiple defence checks in a round, but each check after the fi rst suffers a cumulative -2 penalty.
+---!
+!---
+Table 12-4: Attack Option Summary
+ATTACK OPTIONS|PAGE
+Attacking with Two Weapons|241
+Attacking an Immobile Target|241
+Called Shots|241
+Called Shot - Basic|241
+Called Shot to Disarm|241
+Called Shot to Weak Point|244
+Called Shot to Bypass Armour|244
+Called Shot to Piecemeal Armour|244
+Called Shot to Vital Spot|244
+Charge|244
+Extra Aim|244
+Fighting Defensively|245
+Readying a Weapon Against a Charge|245
+Splash Weapons|245
+Striking to Incapacitate|246
+Striking to Wound|246
+Total Attack|246
+Touching a Target|246
+Trip Attacks|246
+Grappling|246
+Lock|247
+Throw|247
+Pin|247
+Biting|247
+Escaping|247
+Disarming via Grappling|247
+Mounted Combat|247
+EndTable
+---!
+!---
+Table 12-5: Two Weapon Fighting Penalties
+SITUATION|PENALTIES
+Attacking with two weapons|-6/-10
+Attacker has Two-Weapon Fighting|-4/-4
+Secondary weapon is light|-4/-8
+Attacker has Two-Weapon Fighting and secondary weapon is light|-2/-2
+Attack has Two-Weapon Fighting (Improved)|as above/as above/ -5
+EndTable
+---!
+!---
+Table: Attack (Mounted) vs. Ready
+MOUNTED ATTACKER ON FOOT|DEFENDER RESULT
+Armed with long sword, charge Ready with long sword|Defender attacks first, when attacker comes into range; then the attacker attacks
+Armed with lance, charge Ready with long sword|Attacker attacks first; defender then attacks
+Armed with long sword, ride-by attack Ready with longspear|Defender attacks first, when attacker comes into range; attacker attacks, then rides by
+Armed with lance, ride-by attack Ready with longspear|Defender attacks first, when attacker comes into range; attacker attacks, then rides by
+EndTable
+If a character attacks an opponent who has held a ready action (page 235), one of several outcomes is possible. Normally, the longer weapon strikes first. If the weapons are of the same size, the readied weapon strikes fi rst. Thus a defender with a readied weapon acts first, as soon as the attacker comes into range, unless the attacker has a longer weapon.
+This rules also applies if the attacker is charging, or is mounted. Normally, the attacker with a longer weapon would roll to attack first; if the defender survives the charge, he or she gets a single retaliatory strike even if the attacker is making a ride-by attack (a type of charge). If the defender has a reach weapon, though, the attacker's advantage is negated.
+Note: GMs who want to provide more precise combat options should note the length of reach weapons, where provided. For example, a tourney lance is 12 feet long, while a war lance is 10 feet length - and thus the tourney lance should strike first.
+---!
+!---
+Table: Attack (Foot) vs. Ready
+ON FOOT ATTACKER ON FOOT|DEFENDER RESULT
+Armed with long sword, attack Ready with long sword|Defender attacks first, when attacker comes into range; then the attacker attacks
+Armed with long sword, charge Ready with long sword|Defender attacks first, when attacker comes into range; then the attacker attacks
+Armed with pike, attack Ready with long sword|Attacker attacks first; defender then attacks
+Armed with pike, charge Ready with long sword|Attacker attacks first; defender then attacks
+Armed with pike, attack Ready with pike|Defender attacks first, when attacker comes into range; then the attacker attacks
+EndTable
+If a character attacks an opponent who has held a ready action (page 235), one of several outcomes is possible. Normally, the longer weapon strikes first. If the weapons are of the same size, the readied weapon strikes fi rst. Thus a defender with a readied weapon acts first, as soon as the attacker comes into range, unless the attacker has a longer weapon.
+This rules also applies if the attacker is charging, or is mounted. Normally, the attacker with a longer weapon would roll to attack first; if the defender survives the charge, he or she gets a single retaliatory strike even if the attacker is making a ride-by attack (a type of charge). If the defender has a reach weapon, though, the attacker's advantage is negated.
+Note: GMs who want to provide more precise combat options should note the length of reach weapons, where provided. For example, a tourney lance is 12 feet long, while a war lance is 10 feet length - and thus the tourney lance should strike first.
+---!
+!---
+Table 12-7: Size Chart
+SIZE|AC/ATTACK MODIFIER|APPROXIMATE EXAMPLE SIZE|WEIGHT
+Fine|+8|Insect|1/8 lb. or less
+Diminutive|+4 Rodent|1/8 lb. — 1 lb.
+Tiny|+2|Cat|1 lb. — 8 lbs.
+Small|+1|Dog|8 lbs. — 60 lbs.
+Medium|0|Human|60 lbs. — 500 lbs.
+Large|-1|Horse|500 lbs. — 2 tons
+Huge|-2|Mammoth|2 tons — 16 tons
+Gargantuan|-4|Leviathon|16 tons — 125 tons
+Colossal|-8|Ancient dragon|125 tons — 1,000 tons
+EndTable
+Note: Giant’s Blood characters (page 168), Young Children (page 50), and Dwarfs (page 200) are normally treated as Medium, although they have further specific rules.
+Giant’s Blood characters are treated as Large when it is advantageous for them.
+---!
+!---
+Table 12-8: Shield Summary
+SHIELD|AC BONUS**|ARMOUR RATING|HIT POINTS*|ARMOUR CHECK PENALTY
+Buckler, leather or wood|+4|4|5|-1
+Shield, small wooden|+6|6|15|-1
+Shield, small steel|+6|8|30|-1
+Shield, large wooden|+8|6|20|-2
+EndTable
+* A leather or wooden shield that loses all of its Hit Points in a single strike is destroyed, and no longer useful as a shield.
+** If a character is not profi cient with shields, reduce the AC bonus by 2.
+---!
+!---
+Table 5-1: Social Status
+RANK|DESCRIPTION
+-1|OUTCAST (see Outcast Defect, page 202)
+|The character is an outcast from society. He or she may be a criminal, exile, wildling, outlaw, or slave, and has no social standing. The character has no Influence Points, no Wealth (Rank -1, see the Poor Defect, page 202), and no assets except what he or she has scavenged or been given.
+0|SMALLFOLK / APPRENTICE / NOVICE / SELLSWORD / SQUIRE / HEDGE KNIGHT
+|The character has no particular standing, and is essentially a member of the smallfolk. This may be due to age or lack of experience. The character must work hard, and some days are still a struggle, but the character also experiences small joys. The character has access to the minimum equipment needed for his or her profession. The character has no Base Influence Points nor Wealth.
+|NOTE: A hedge knight or respected member of the smallfolk (like a skilled blacksmith) tends to be of this Rank, but either has the Raised Status Feat (Influence over the local village, etc.), the Command Feat, or the Wealth Feat.
+1|SWORN SWORD / HOUSEHOLD SERVANT / LESSER MERCHANT / ACOLYTE MAESTER
+|The character is connected to a house or organisation, and can rely on it for minor support and favours, and is expected to serve or be called on in return. The character has access to at least the minimum equipment needed for his or her profession, and likely room and board. He or she may be able to acquire more valuable goods for pressing business. The character has +5 Base Influence Points over a house or organisation (possibly gained by the Raised Status Feat), and Wealth Rank 1.
+2|HOUSE RETAINER / LANDED KNIGHT / MERCHANT / MAESTER
+|The character has achieved powerful connections to a house or organisation, and in return acquires greater status and wealth. The character’s family may have been loyal for more than a generation. The character can call upon his or her organisation to provide whatever equipment is needed within reason, and can even request the service of household servants (characters with Rank 1 in the same organisation or less, such as septas, hunters, or men-at-arms) on occasion. In return, the character is expected to support the organisation and may be called on as needed. The character has +10 Base Influence Points over a house or organisation, and Wealth Rank 2. The character is ECL +1.
+3|MEMBER OF A MINOR HOUSE / GREATER LANDED KNIGHT / GREATER MERCHANT
+|The smallest of lords commands respect due to his blood, but this may be matched or even surpassed by the greatest landed knights and merchants. Whether baseborn or lowest of the highborn, these individuals have lands and wealth attached to their name, and this passes through the generations. The character likely commands small properties and has signifi cant wealth. A greater landed knight may have more sworn swords, and a greater merchant more ships, but a noble will technically be ranked above them. The character can call for significant aid from the organisation regularly, but is expected to defend and support it at all times. The character has +15 Base Influence Points over a house or organisation, and Wealth Rank 3. The character is ECL +2.
+4|MEMBER OF A GREAT HOUSE / ARCHMAESTER / BROTHER OF THE KINGSGUARD
+|The character has major status in Westeros. The character automatically outstrips anyone who was not born or raised into nobility, no matter their wealth or armies. The character likely commands moderate properties and has substantial wealth. The character can call for signifi cant aid from his or her bannermen, but has many obligations to the house, and occasionally to his or her bannermen, as well. The character has +20 Base Influence Points over a house or organisation, and Wealth Rank 4. The character is ECL +3.
+5|MEMBER OF THE ROYAL FAMILY
+|The character is one of the most powerful nobles in Westeros, an immediate member of the royal family (prince, princess, etc.). The character has tremendous resources, in the form of property, men, wealth, etc., and can likely borrow even more from allies for a short time. The character can call for substantial aid from his or her bannermen, but the obligation to the house is nearly total. The character has +25 Base Infl uence Points over the royal house (the kingdom), and Wealth Rank 5. The character is ECL +4.
+(6)|KING (OR RULING QUEEN)
+|The character is the most powerful noble in Westeros, the king (or ruling queen) of the Seven Kingdoms. The king or queen has vast powers and resources, and can theoretically command any and every noble across the lands. In reality, the king or queen has as many duties and obligations as powers, and may have to court the great lords and ladies in order to get what he or she wants. The character is Social Status Rank 5, with the Heir Feat and the Head of House Feat, for a Base Infl uence over the Kingdom of +30, and Wealth Rank 6.
+EndTable
+---!
+!---
+Table 6-1: Level-Dependent Benefits
+CHARACTER LVL|EXPERIENCE (XP)|MAXIMUM CLASS SKILL RANK|MAXIMUM CROSS CLASS SKILL RANK|FEATS|ABILITY SCORE INCREASES
+1|0|4|2|+1|Feat|-
+2|1,000|5||2|-|-
+3|3,000|6|3|+1|Feat|-
+4|6,000|7|3|-|+1
+5|10,000|8|4|-|-
+6|15,000|9|4|+1|Feat|-
+7|21,000|10|5|-|-
+8|28,000|11|5|-|+1
+9|36,000|1|2|6|+1|Feat|-
+10|45,000|13|6|-|-
+11|55,000|14|7|-|-
+1|266,000|15|7|+1|Feat|+1
+13|78,000|16|8|-|-
+14|91,000|17|8|-|-
+15|105,000|18|9|+1|Feat|-
+16|120,000|19|9|-|+1
+17|136,000|20|10|-|-
+18|153,000|21|10|+1|Feat|-
+19|171,000|2|2|11|-|-
+20|190,000|23|11|-|+1
+EndTable
+---!
+!---
+Table 6-2: Base Save and Base Attack and Defence Bonuses
+||HUNTER, MAN-AT-ARMS, RAIDER|ARTISAN, KNAVE, NOBLE|GODSWORN, MAESTER|KNAVE|MAN-AT-ARMS, NOBLE, RAIDER|ARTISAN, GODSWORN, HUNTER, MAESTER
+CLASS LVL|BSB|BAB|BAB|BAB|DB|DB|DB
+1|+0/+2|+1|+0|+0|+1|+0|+0
+2|+0/+3|+2|+1|+1|+2|+1|+1
+3|+1/+3|+3|+2|+1|+3|+2|+1
+4|+1/+4|+4|+3|+2|+4|+3|+2
+5|+1/+4|+5|+3|+2|+5|+3|+2
+6|+2/+5|+6/+1|+4|+3|+6|+4|+3
+7|+2/+5|+7/+2|+5|+3|+7|+5|+3
+8|+2/+6|+8/+3|+6/+1|+4|+8|+6|+4
+9|+3/+6|+9/+4|+6/+1|+4|+9|+6|+4
+10|+3/+7|+10/+5|+7/+2|+5|+10|+7|+5
+11|+3/+7|+11/+6/+1|+8/+3|+5|+11|+8|+5
+12|+4/+8|+12/+7/+2|+9/+4|+6/+1|+12|+9|+6
+13|+4/+8|+13/+8/+3|+9/+4|+6/+1|+13|+9|+6
+14|+4/+9|+14/+9/+4|+10/+5|+7/+2|+14|+10|+7
+15|+5/+9|+15/+10/+5|+11/+6/+1|+7/+2|+15|+11|+7
+16|+5/+10|+16/+11/+6/+1|+12/+7/+2|+8/+3|+16|+12|+8
+17|+5/+10|+17/+12/+7/+2|+12/+7/+2|+8/+3|+17|+12|+8
+18|+6/+11|+18/+13/+8/+3|+13/+8/+3|+9/+4|+18|+13|+9
+19|+6/+11|+19/+14/+9/+4|+14/+9/+4|+9/+4|+19|+14|+9
+20|+6/+12|+20/+15/+10/+5|+15/+10/+5|+10/+5|+20|+15|+10
+EndTable
+---!
+!---
+Table 6-3: The Artisan
+LVL|BAB|FS|RS|WS|DEF|REP|SPECIAL
+1|+0|+0|+0|+2|+0|-|Focus
+2|+1|+0|+0|+3|+1|+1|Bonus Feat
+3|+2|+1|+1|+3|+1|-|Fame and Infamy +2/-2, Skill Emphasis
+4|+3|+1|+1|+4|+2|-|Established
+5|+3|+1|+1|+4|+2|+1|Fame and Infamy +3/-3, Patronage
+6|+4|+2|+2|+5|+3|-|Little Birds, Masterwork +1
+7|+5|+2|+2|+5|+3|+1|Fame and Infamy (2 targets), Bonus Feat
+8|+6/+1|+2|+2|+6|+4|-|Little Birds
+9|+6/+1|+3|+3|+6|+4|-|Fame and Infamy +4/-4, Patronage (second patron)
+10|+7/+2|+3|+3|+7|+5|+1|Skill Emphasis
+11|+8/+3|+3|+3|+7|+5|-|Fame and Infamy (3 targets)
+12|+9/+4|+4|+4|+8|+6|+1|Bonus Feat, Masterwork +2
+13|+9/+4|+4|+4|+8|+6|-|Fame and Infamy +5/-5
+14|+10/+5|+4|+4|+9|+7|-|Patronage
+15|+11/+6/+1|+5|+5|+9|+7|+1|Fame and Infamy (4 targets), Little Birds
+16|+12/+7/+2|+5|+5|+10|+8|-|Focus, Patron’s Gift
+17|+12/+7/+2|+5|+5|+10|+8|+1|Bonus Feat, Fame and Infamy +6/-6
+18|+13/+8/+3|+6|+6|+11|+9|-|Little Birds
+19|+14/+9/+4|+6|+6|+11|+9|-|Masterwork +3 bonus
+20|+15/+10/+5|+6|+6|+12|+10|+1|Bonus Feat
+EndTable
+---!
+!---
+Table 6-4: Sample Creation Times
+WORKS|CREATION TIME|DC
+Very simple item (wooden bowl)|1 day (or less)|5
+Typical item (iron pot)|1-4 days|10
+Bawdy song|1-4 days|10
+Meeting with a bannerman|1-4 days|10
+Metal Armour|1-18 months*|10 + Armour Rating
+Metal Shield|1-8 days|10 + Armour Rating
+Simple melee or thrown weapon|1-2 fortnights|12
+Portrait|1 fortnight|12
+Longbow or shortbow|1-4 days|12
+Poem/Song|1-8 days|12
+Comedic/Tragic Play|1-12 months|12
+Meeting with a rival lord|1-8 days|12
+High-quality item (bell)|1-8 days|15
+Martial melee or thrown weapon|1-3 fortnights|15
+Long Story|1-6 months|15
+Statue, Life-sized|1-6 months|15
+Large Painting/Mural|1-12 months|15
+Meeting with a liege lord|1 fortnight|15
+Double-curved bow|1 month**|15 + Str Modifier
+Reference Book|1-4 years|18
+Exotic melee or thrown weapon|1-2 months|18
+Meeting with the king|1-2 fortnights|18
+Epic|1-8 years|20
+Statue, Heroic-sized|3+ years|20
+EndTable
+* Metal armour can be assumed to take between 3-6 + Armour rating in months without apprentices.
+** Double-curved bows that allow Str Modifiers to damage take an additional fortnight per +1 Str Modifier.
+---!
+!---
+Table 6-6: The Godsworn
+LVL|BAB|FS|RS|WS|DEF|REP|SPECIAL
+1|+0|+2|+0|+2|+0|+1|Faith +1, Literacy
+2|+1|+3|+0|+3|+1|-|Bonus Class Skill, Prayer to the Seven
+3|+1|+3|+1|+3|+1|+1|Co-ordinate +2
+4|+2|+4|+1|+4|+2|-|Faith +2, Prayer to the Seven
+5|+2|+4|+1|+4|+2|+1|Blessings 1/day
+6|+3|+5|+2|+5|+3|-|Bonus Feat, Prayer to the Seven
+7|+3|+5|+2|+5|+3|+1|Faith 2/day
+8|+4|+6|+2|+6|+4|-|Contact, Co-ordinate +4, Prayer to the Seven
+9|+4|+6|+3|+6|+4|+1|Faith +3
+10|+5|+7|+3|+7|+5|-|Devotion’s Reward, Prayer to the Seven
+11|+5|+7|+3|+7|+5|+1|Blessings 2/day
+12|+6/+1|+8|+4|+8|+6|-|Bonus Class Skill, Prayer to the Seven
+13|+6/+1|+8|+4|+8|+6|+1|Bonus Feat
+14|+7/+2|+9|+4|+9|+7|-|Faith +4
+15|+7/+2|+9|+5|+9|+7|+1|Co-ordinate +6
+16|+8/+3|+10|+5|+10|+8|-|Faith 3/day
+17|+8/+3|+10|+5|+10|+8|+1|Contact
+18|+9/+4|+11|+6|+11|+9|-|Bonus Feat
+19|+9/+4|+11|+6|+11|+9|+1|Faith +5
+20|+10/+5|+12|+6|+12|+10|-|Blessings 3/day
+EndTable
+---!
+!---
+Table 6-7: The Hunter
+LVL|BAB|FS|RS|WS|DEF|REP|SPECIAL
+1|+1|+2|+2|+0|+0|-|Native Terrain
+2|+2|+3|+3|+0|+1|-|Quick to Arms, Track
+3|+3|+3|+4|+1|+1|+1|Wilderness Stealth +2
+4|+4|+4|+4|+1|+2|-|Bonus Feat
+5|+5|+4|+4|+1|+2|-|Track
+6|+6/+1|+5|+5|+2|+3|+1|Weapon Specialisation
+7|+7/+2|+5|+5|+2|+3|-|Endurance, Stalking Strike +1d6
+8|+8/+3|+6|+6|+2|+4|-|Native Terrain
+9|+9/+4|+6|+6|+3|+4|+1|Bonus Feat
+10|+10/+5|+7|+7|+3|+5|-|Wild Empathy
+11|+11/+6/+1|+7|+7|+3|+5|-|Wilderness Stealth (full movement)
+12|+12/+7/+2|+8|+8|+4|+6|+1|Camouflage
+13|+13/+8/+3|+8|+8|+4|+6|-|Stalking Strike +2d6
+14|+14/+9/+4|+9|+9|+4|+7|-|Bonus Feat
+15|+15/+10/+5|+9|+9|+5|+7|+1|Wilderness Stealth +4
+16|+16/+11/+6/+1|+10|+10|+5|+8|-|Native Terrain
+17|+17/+12/+7/+2|+10|+10|+5|+8|-|Hide in Plain Sight
+18|+18/+13/+8/+3|+11|+11|+6|+9|+1|Trackless Step
+19|+19/+14/+9/+4|+11|+11|+6|+9|-|Bonus Feat
+20|+20/+15/+10/+5|+12|+12|+6|+10|-|Stalking Strike +3d6
+EndTable
+---!
+!---
+Table 6-8: The Knave
+LVL|BAB|FS|RS|WS|DEF|REP|SPECIAL
+1|+0|+0|+2|+0|+1|-|Illicit Barter
+2|+1|+0|+3|+0|+2|+1|Fortune’s Favour 1/day
+3|+2|+1|+3|+1|+3|-|Sneak Attack +1d6
+4|+3|+1|+4|+1|+4|-|Bonus Feat
+5|+3|+1|+4|+1|+5|+1|Skill Mastery
+6|+4|+2|+5|+2|+6|-|Special Ability
+7|+5|+2|+5|+2|+7|+1|Sneak Attack +2d6
+8|+6/+1|+2|+6|+2|+8|-|Bonus Feat
+9|+6/+1|+3|+6|+3|+9|-|Fortune’s Favour 2/day
+10|+7/+2|+3|+7|+3|+10|+1|Skill Mastery
+11|+8/+3|+3|+7|+3|+11|-|Sneak Attack +3d6
+12|+9/+4|+4|+8|+4|+12|+1|Special Ability
+13|+9/+4|+4|+8|+4|+13|-|Bird Watching
+14|+10/+5|+4|+9|+4|+14|-|Bonus Feat
+15|+11/+6/+1|+5|+9|+5|+15|+1|Sneak Attack|+4d6
+16|+12/+7/+2|+5|+10|+5|+16|-|Fortune’s Favour 3/day
+17|+12/+7/+2|+5|+10|+5|+17|+1|Special Ability
+18|+13/+8/+3|+6|+11|+6|+18|-|Bonus Feat
+19|+14/+9/+4|+6|+11|+6|+19|-|Sneak Attack +5d6
+20|+15/+10/+5|+6|+12|+6|+20|+1|Special Ability
+EndTable
+---!
+!---
+Table 6-9: The Maester
+LVL|BAB|FS|RS|WS|DEF|REP|SPECIAL
+1|+0|+2|+0|+2|+0|+1|Literacy, Rookery, Bonus Feat
+2|+1|+3|+0|+3|+1|-|Mastery, Star-Gazing *
+3|+1|+3|+1|+3|+1|+1|Link in the Chain, Research **
+4|+2|+4|+1|+4|+2|-|Mastery
+5|+2|+4|+1|+4|+2|+1|Logic and Reason +1/+0, Bonus Feat
+6|+3|+5|+2|+5|+3|-|Logic and Reason +2/+1, Mastery
+7|+3|+5|+2|+5|+3|+1|Link in the Chain, Logic and Reason +3/+1
+8|+4|+6|+2|+6|+4|-|Logic and Reason +4/+2, Mastery
+9|+4|+6|+3|+6|+4|+1|Bonus Feat, Logic and Reason +5/+2
+10|+5|+7|+3|+7|+5|-|Logic and Reason +6/+3, Mastery
+11|+5|+7|+3|+7|+5|+1|Link in the Chain, Logic and Reason +7/+3
+12|+6/+1|+8|+4|+8|+6|-|Logic and Reason +8/+4, Mastery
+13|+6/+1|+8|+4|+8|+6|+1|Bonus Feat, Logic and Reason +9/+4
+14|+7/+2|+9|+4|+9|+7|-|Logic and Reason +10/+5, Mastery
+15|+7/+2|+9|+5|+9|+7|+1|Link in the Chain, Logic and Reason +11/+5
+16|+8/+3|+10|+5|+10|+8|-|Logic and Reason +12/+6, Mastery
+17|+8/+3|+10|+5|+10|+8|+1|Bonus Feat, Logic and Reason +13/+6
+18|+9/+4|+11|+6|+11|+9|-|Logic and Reason +14/+7, Mastery
+19|+9/+4|+11|+6|+11|+9|+1|Link in the Chain, Logic and Reason +15/+7
+20|+10/+5|+12|+6|+12|+10|-|Logic and Reason +16/+8, Mastery
+EndTable
+Note: * A Maester normally acquires his first link at 2nd Level. When this occurs, he becomes known as an acolyte, with Social Status Rank 1 and has 5 Influence Points for the Citadel.
+** A Maester normally says his vows somewhere between 3rd and 5th Level. When he does this, he forsakes his name. As an initiate, however, he has Social Status Rank 2, and gains 5 more Influence Points (normally spent on the house to which he is assigned).
+---!
+!---
+Table 6-10: Loremaster Checks
+DC|TYPE OF KNOWLEDGE
+15|Common, known by at least a substantial minority of the local population; common stories of heroism and infamy.
+20|Uncommon, known by only a few people; a noble’s minor misdeeds and extravagances.
+25|Obscure, known by few, hard to come by; a knight’s family history.
+30|Extremely obscure, known by very few today; the origins of a generational blood feud.
+EndTable
+---!
+!---
+Table 6-11: Higher Mysteries Checks
+DC|TYPE OF KNOWLEDGE
+15|Common, known by a small minority of most populations; folk tales and wet nurses’ stories.
+20|Uncommon, known by only a few people; knowledge of dragons and Valyrian steel.
+25|Obscure, known by few, hard to come by; history of the children of the forest and giants.
+30|Extremely obscure, known by very few today; knowledge of Valyria and the Others.
+EndTable
+---!
+!---
+Table 6-12: The Man-at-arms
+LVL|BAB|FS|RS|WS|DEF|REP|SPECIAL
+1|+1|+2|+0|+0|+0|-|Bonus Feat
+2|+2|+3|+0|+0|+1|+1|Bonus Feat
+3|+3|+3|+1|+1|+2|-|Armour Compatibility +1
+4|+4|+4|+1|+1|+3|-|
+5|+5|+4|+1|+1|+3|+1|Bonus Feat
+6|+6/+1|+5|+2|+2|+4|-|
+7|+7/+2|+5|+2|+2|+5|+1|Armour Mastery
+8|+8/+3|+6|+2|+2|+6|-|Bonus Feat
+9|+9/+4|+6|+3|+3|+6|-|
+10|+10/+5|+7|+3|+3|+7|+1|Armour Compatibility +2
+11|+11/+6/+1|+7|+3|+3|+8|-|Bonus Feat
+12|+12/+7/+2|+8|+4|+4|+9|+1
+13|+13/+8/+3|+8|+4|+4|+9|-|
+14|+14/+9/+4|+9|+4|+4|+10|-|Bonus Feat
+15|+15/+10/+5|+9|+5|+5|+11|+1
+16|+16/+11/+6/+1|+10|+5|+5|+12|-|Armour Compatibility +3
+17|+17/+12/+7/+2|+10|+5|+5|+12|+1|Bonus Feat
+18|+18/+13/+8/+3|+11|+6|+6|+13|-|
+19|+19/+14/+9/+4|+11|+6|+6|+14|-|
+20|+20/+15/+10/+5|+12|+6|+6|+15|+1|Bonus Feat
+EndTable
+---!
+!---
+Table 6-13: The Noble
+LVL|BAB|FS|RS|WS|DEF|REP|SPECIAL
+1|+0|+0|+0|+2|+0|+1|Bonus Class Skill, Literacy, Noble Education
+2|+1|+0|+0|+3|+1|+1|Bonus Feat, Noble Standing +4
+3|+2|+1|+1|+3|+2|+1|Mandate +1
+4|+3|+1|+1|+4|+3|+1|Command +2
+5|+3|+1|+1|+4|+3|+1|Mandate +2
+6|+4|+2|+2|+5|+4|+1|Noble Standing +4
+7|+5|+2|+2|+5|+5|+1|Mandate +3
+8|+6/+1|+2|+2|+6|+6|+1|Bonus Feat
+9|+6/+1|+3|+3|+6|+6|+1|Command +4
+10|+7/+2|+3|+3|+7|+7|+1|Noble Standing +4
+11|+8/+3|+3|+3|+7|+8|+1|Bonus Feat
+12|+9/+4|+4|+4|+8|+9|+1|Mandate +4
+13|+9/+4|+4|+4|+8|+9|+1|Bonus Feat
+14|+10/+5|+4|+4|+9|+10|+1|Command +6
+15|+11/+6/+1|+5|+5|+9|+11|+1|Noble Standing +4
+16|+12/+7/+2|+5|+5|+10|+12|+1|Mandate +5
+17|+12/+7/+2|+5|+5|+10|+12|+1|Command +8
+18|+13/+8/+3|+6|+6|+11|+13|+1|Noble Standing +4
+19|+14/+9/+4|+6|+6|+11|+14|+1|Bonus Feat
+20|+15/+10/+5|+6|+6|+12|+15|+1|Command +10
+EndTable
+---!
+!---
+Table 6-14: The Raider
+LVL|BAB|FS|RS|WS|DEF|REP|SPECIAL
+1|+1|+2|+2|+0|+0|-|Fast Movement, Weapon Focus
+2|+2|+3|+3|+0|+1|-|Danger Sense
+3|+3|+3|+3|+1|+2|+1|Foe Hunter
+4|+4|+4|+4|+1|+3|-|Stealthy Movement
+5|+5|+4|+4|+1|+3|-|Raider Ability
+6|+6/+1|+5|+5|+2|+4|+1|Bonus Feat
+7|+7/+2|+5|+5|+2|+5|-|Raider Ability
+8|+8/+3|+6|+6|+2|+6|-|Bonus Feat
+9|+9/+4|+6|+6|+3|+6|+1|Terrible Presence
+10|+10/+5|+7|+7|+3|+7|-|Raider Ability
+11|+11/+6/+1|+7|+7|+3|+8|+1|Bonus Feat
+12|+12/+7/+2|+8|+8|+4|+9|-|Terrible Presence
+13|+13/+8/+3|+8|+8|+4|+9|+1|Raider Ability
+14|+14/+9/+4|+9|+9|+4|+10|-|Bonus Feat
+15|+15/+10/+5|+9|+9|+5|+11|+1|Raider Ability
+16|+16/+11/+6/+1|+10|+10|+5|+12|-|Raider Ability
+17|+17/+12/+7/+2|+10|+10|+5|+12|+1|Terrible Presence
+18|+18/+13/+8/+3|+11|+11|+6|+13|-|Bonus Feat
+19|+19/+14/+9/+4|+11|+11|+6|+14|-|Raider Ability
+20|+20/+15/+10/+5|+12|+12|+6|+15|+1|Raider Ability
+EndTable
+---!
+!---
+Table 6-16: The Bloodrider
+LVL|BAB|FS|RS|WS|DEF|REP|SPECIAL
+1|+1|+2|+2|+0|+0|+1|Raised Status, Ride +1, Tough
+2|+2|+3|+3|+0|+1|-|Ride +2, Steer with the Knees, Survivor
+3|+3|+3|+3|+1|+2|-|Defensive Riding +1, Khalasar’s Might +1, Ride +3
+4|+4|+4|+4|+1|+3|-|Mount’s Defender, Ride +4
+5|+5|+4|+4|+1|+3|-|Bonus Feat, Horseman’s Leap, Ride +5
+6|+6/+1|+5|+5|+2|+4|+1|Bonus Feat, Defensive Riding +2, Khalasar’s Might +2, Mount’s Defender +2, Ride +6
+7|+7/+2|+5|+5|+2|+5|-|Bloodguard, Bonus Feat, Ride +7, Tough
+8|+8/+3|+6|+6|+2|+6|-|Bloodguard’s Vigilance, Bonus Feat, Mount’s Defender +4, Ride +8
+9|+9/+4|+6|+6|+3|+6|-|Bonus Feat, Defensive Riding +3, Khalasar’s Might +3, Ride +9
+10|+10/+5|+7|+7|+3|+7|+1|Blood of my Blood, Bonus Feat, Mount’s Defender +6, Ride +10
+EndTable
+---!
+!---
+Table 6-16: The Brother of the Kingsguard
+LVL|BAB|FS|RS|WS|DEF|REP|SPECIAL
+1|+1|+2|+2|+0|+0|+1|Appointed to the Kingsguard, Favoured
+2|+2|+3|+3|+0|+1|-|Protector, Ride +1
+3|+3|+3|+3|+1|+2|+1|Armour Compatibility +1, Lance +1
+4|+4|+4|+4|+1|+3|+1|Ride +2, Sword +1
+5|+5|+4|+4|+1|+3|-|Guardian +1
+6|+6/+1|+5|+5|+2|+4|+1|Defender’s Vigilance, Lance +2, Ride +3
+7|+7/+2|+5|+5|+2|+5|+1|Defender’s Retribution, Guardian +2
+8|+8/+3|+6|+6|+2|+6|-|Ride +4, Sword +2
+9|+9/+4|+6|+6|+3|+6|+1|Armour Compatibility +2
+10|+10/+5|+7|+7|+3|+7|+1 Sword Duty, Defender +4, Ride +5
+EndTable
+---!
+!---
+Table 6-17: The Commander
+LVL|BAB|FS|RS|WS|DEF|REP|SPECIAL
+1|+0|+2|+0|+2|+0|+1|Military History +2, Rallying Cry +1
+2|+1|+3|+0|+3|+1|+1|Armour Compatibility +1
+3|+2|+3|+1|+3|+2|-|Military History +4, Tactician +1
+4|+3|+4|+1|+4|+3|+1|Command +2
+5|+3|+4|+1|+4|+3|+1|Military Advisor +2
+6|+4|+5|+2|+5|+4|-|Tactician +2
+7|+5|+5|+2|+5|+5|+1|Military History +6
+8|+6/+1|+6|+2|+6|+6|+1|Command +4, Rallying Cry +2
+9|+6/+1|+6|+3|+6|+6|-|Military Advisor +4, Military History +8
+10|+7/+2|+7|+3|+7|+7|+1|To the Last Man
+EndTable
+---!
+!---
+Table 6-18: The Knight
+LVL|BAB|FS|RS|WS|DEF|REP|SPECIAL
+1|+1|+2|+2|+0|+0|+1 Ride +1
+2|+2|+3|+3|+0|+1|-|Lance +1
+3|+3|+3|+3|+1|+2|+1 Armour Compatibility +1, Ride +2, Sword +1
+4|+4|+4|+4|+1|+3|-|Armour Mastery, Quick to the Saddle
+5|+5|+4|+4|+1|+3|+1 Knight’s Spurs, Lance +2, Ride +3
+6|+6/+1|+5|+5|+2|+4|-|Mandate +1
+7|+7/+2|+5|+5|+2|+5|+1 Ride +4, Steer with the Knees , Sword +2
+8|+8/+3|+6|+6|+2|+6|-|Dread Charge
+9|+9/+4|+6|+6|+3|+6|+1 Armour Compatibility +2, Ride +5
+10|+10/+5|+7|+7|+3|+7|-|Knight’s Onslaught
+EndTable
+---!
+!---
+Table 6-19: The Night’s Watch Ranger
+LVL|BAB|FS|RS|WS|DEF|REP|SPECIAL
+1|+1|+2|+0|+0|+0|-|Brotherhood, Native Terrain
+2|+2|+3|+0|+0|+1|-|Bonus Feat
+3|+3|+3|+1|+1|+2|+1|Wildling Foe
+4|+4|+4|+1|+1|+3|-|Bonus Feat, Ranger’s Wariness +2
+5|+5|+4|+1|+1|+3|-|Native Terrain
+6|+6/+1|+5|+2|+2|+4|+1|Bonus Feat, Swift Tracking
+7|+7/+2|+5|+2|+2|+5|-|Ranger’s Cunning
+8|+8/+3|+6|+2|+2|+6|-|Bonus Feat, Ranger’s Stealth, Ranger’s Wariness +4
+9|+9/+4|+6|+3|+3|+6|+1|Native Terrain
+10|+10/+5|+7|+3|+3|+7|-|Shield of Men
+EndTable
+---!
+!---
+Table 6-20: The Night’s Watch Steward
+LVL|BAB|FS|RS|WS|DEF|REP|SPECIAL
+1|+0|+2|+0|+2|+0|--|Brotherhood
+2|+1|+3|+0|+3|+1|--|Steward’s Rank +2
+3|+1|+3|+1|+3|+1|+1|Steward’s Duties
+4|+2|+4|+1|+4|+2|--|Command +2, Steward’s Rank +4, Wall’s Defender +1
+5|+2|+4|+1|+4|+2|--|Authority, Steward’s Duties, Wall’s Defender +1
+6|+3|+5|+2|+5|+3|+1|Command +4, Steward’s Rank +6, Wall’s Defender +1
+7|+3|+5|+2|+5|+3|--|Steward’s Duties, Wall’s Defender +1
+8|+4|+6|+2|+6|+4|--|Command +6, Steward’s Rank +8, Wall’s Defender +1
+9|+4|+6|+3|+6|+4|+1|Steward’s Duties, Wall’s Defender +1
+10|+5|+7|+3|+7|+5|--|Steward’s Rank +10, Wall’s Defender +1
+EndTable
+---!
+!---
+Table 6-22: The Spy
+LVL|BAB|FS|RS|WS|DEF|REP|SPECIAL
+1|+0|+0|+2|+2|+0|--|Dissembler +2
+2|+1|+0|+3|+3|+1|--|Contact (1), Special Ability
+3|+1|+1|+3|+3|+2|+1|Bird Watching
+4|+2|+1|+4|+4|+3|--|Dissembler +4, Special Ability
+5|+2|+1|+4|+4|+3|--|Contact (2), Little Birds
+6|+3|+2|+5|+5|+4|+1|Special Ability
+7|+3|+2|+5|+5|+5|--|Dissembler +6, Little Birds
+8|+4|+2|+6|+6|+6|--|Special Ability
+9|+4|+3|+6|+6|+6|+1|Contact (3)
+10|+5|+3|+7|+7|+7|--|Dissembler +8, Little Birds, Special Ability
+EndTable
+---!
+!---
+Table 6-23: The Water Dancer
+BASE ATTACK FORT REF WILL
+LEVEL BONUS SAVE SAVE SAVE DEFENCE REPUTATION SPECIAL
+1|+1|+0|+2|+2|+1|+1|Eyes See True +1, Fear Cuts Deeper than Swords
+2|+2|+0|+3|+3|+2|--|Swift as a Deer
+3|+3|+1|+3|+3|+3|+1|Calm as Still Water, Eyes See True +2
+4|+4|+1|+4|+4|+4|--|Quiet as a Shadow, Strong as Bear
+5|+5|+1|+4|+4|+5|+1|Eyes See True +3, Fierce as a Wolverine
+6|+6/+1|+2|+5|+5|+6|--|Light as a Feather, Quick as a Snake
+7|+7/+2|+2|+5|+5|+7|+1|Eyes See True +4
+8|+8/+3|+2|+6|+6|+8|--|Bravo’s Dance
+9|+9/+4|+3|+6|+6|+9|+1|Dancer’s Grace, Eyes See True +5
+10|+10/+5|+3|+7|+7|+10|--|Fierce as a Wolverine, The Water Runs Out
+EndTable
+---!
+!---
+Table 11-1: Wealth Ranks
+RANK|DESCRIPTIVE VALUE
+-1 |The character is completely destitute. He or she has no means, no incomes, no resources. The character might not even own clothes or food, if he or she is a slave or criminal, and must either steal, be given those things, or do without.
+0 |The character is poor, but not completely without means. The character has a roof over his or her head and meals are rarely a worry, although they consist of simple fare.
+|The character owns a few things, and has access to whatever equipment is needed to fulfi l his or her job, but may not own it. He or she may be willing to scrimp and save in order to afford a rare luxury. The character can support a small family, though sacrifices will have to be made.
+1 |The character is stable. He or she owns a small homestead or is in service to a lord who provides room and board. The character owns or has regular access to any equipment needed for his or her profession. The character may have a few fancy outfi ts, a family heirloom of reasonable worth, or certain specialised tools. Occasional luxuries are purchased without worry, and the character can support a medium-sized family without concern. If a merchant or artisan, the character may employ a couple of apprentices who serve for room and board.
+2 |The character is well off. He or she has claim to certain lands or has established a profi table business. The character has access to whatever he or she needs on a daily basis, although large expenditures (a bejewelled suit of armour, a longship, a gala ball, entertaining the king, etc.) should be rare. The character may have stockpiled resources up over the years, and is thus able to weather small crises or unexpected turns in fortune. A merchant might have numerous assistants and warehouses in several ports. A knight could have a small holdfast and garrison of men-at-arms. The character could not long withstand a siege (either military or economic), but can make reasonable aggressive or defensive manoeuvres (again, military or economic).
+3| The character is wealthy. He or she has extensive holdings, either rich lands or profitable businesses. The character may be more powerful than some small lords in terms of resources and the ability to marshal soldiers. The character should have reasonable stockpiles of supplies, and is able to weather major crises or extended downturns in fortune. A merchant might have a fleet of ships, while a knight could control a major castle and surrounding lands. These properties may employ dozens or even hundreds of men and women, who are reasonably loyal to the character. The character could survive a siege although at great cost. Similarly, the character could easily marshal troops for skirmishes or raids, or support a greater lord’s army; the character cannot truly wage a long war against an equal or greater opponent without tremendous sacrifice.
+4| The character is very wealthy. He or she has either multiple large properties, or holds a key territory. The character may be a staunch supporter and key resource to a great house, and has tremendous sway in the region due to economic control. The character is able to weather extended crises or disastrous changes in fortune, and survive anything less than a concentrated attack. The character likely has hundreds or even thousands of vassals. The character could survive an extended siege. The character can wage war against a weaker foe without signifi cantly diminishing his or her own forces, and can commit against an equal or even superior force, although at great risk.
+5| The character is tremendously wealthy. He or she controls an enormous territory, with many holdings and assets. The character is a major force in any area to which he or she chooses to commit himself (militarily, economically, politically, etc.). The character can survive anything but the harshest winters or greatest disasters. The character has thousands or tens of thousands of sworn men and women, and diversified resources. He or she could survive a siege almost indefinitely and can call the swords for an extended war. The character can supply a massive army, or navy, or possibly both, and can normally survive even a powerful loss as long as there is some way out.
+6 |The character is fabulously wealthy — one of the richest few anywhere in the Seven Kingdoms or the lands to the east. He or she controls an enormous territory and additionally holds plum resources (mines, trade routes, rare vineyards, etc.). The character’s holdings are similar to those of the previous Rank, but the character may also lend tremendous sums to other houses or organisations — equipping armies, financing campaigns, hosting royalty, etc. These tend to have the highest returns in political favours. The character’s army may not be bigger than another lord’s, but it will likely be better equipped and lords and generals will be more opulently furnished. The character’s resources are very difficult to diminish or impact in any serious way.
+EndTable
+Note: If a character makes a signifi cant purchase (relevant to his or her Wealth Rank) it may temporarily reduce the character’s Wealth Rank. It is suggested that Wealth rarely be lowered by more than 1 Rank, and this penalty should last only until an appropriate amount of time has elapsed (normally between one session and until the end of a significant story
+arc). Similarly, if the character discovers a windfall (wins a major tourney, ransoms a wealthy lord, etc.) the character’s Wealth Rank may temporarily rise by 1 Rank.
+---!
